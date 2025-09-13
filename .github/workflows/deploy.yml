@@ -18,7 +18,7 @@ jobs:
         uses: konstfish/quartz-build-action@v6
         with:
           # specify source folder
-          source: obsidian_vault
+          source: Ankasekima
           # page title to be displayed in the browser
           page_title: "Ankasekima"
       - name: Upload artifact

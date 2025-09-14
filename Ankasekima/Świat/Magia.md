@@ -8,7 +8,9 @@ Istnieje jednak wyjątkowa grupa rzucających zaklęcia, która nie potrzebuje d
 
 >[!example]- Przykładowe aspekty
 >Osoby duchowne, jak klerycy, kontemplujące znaczenie życia i życie po życiu, nabierają wprawy w zakresie pozbywanie się negatywnych cząsteczek magii (egzorcyzmy), a mistrzowie mogą nawet dojść do zaklęcia wskrzeszania. Albo uzyskują umiejętności w zakresie nekromancji i tworzenia sztucznych dusz. 
+>
 >Druidzi otaczający się naturą potrafią przyśpieszać procesy naturalne takie jak rośnięcie, czy zasklepianie się ran. Ale mogą też przyśpieszyć np. rozprzestrzenianie się trucizny w organizmie. 
+>
 >Czarodzieje zwykle podejmują się badań w najróżniejszych aspektach, a wiedza przekazywana jest z mistrza na ucznia. Ponieważ w ramach badań i zwiększania swojej wiedzy czarodzieje otaczają się wykorzystywanym przez siebie aspektem, aspekt ten przechodzi też zwykle na ucznia.
 
 ## Przypadki szczególne

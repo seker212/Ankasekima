@@ -1,4 +1,4 @@
-> *Niewidzialna i nieznana, lecz wydająca się trzymać określonych reguł, magia jest żywiołem nad żywiołami. Do jej władania konieczny jest otwarty umysł i wiele lat poświęconych jej zagadnieniom. Nie sposób jest jednak okiełznać jej całej, a każdy z niej czerpie winien skupić się na jednym jej aspekcie, aby sił i talentów swoich nie zmarnował.*
+> *Niewidzialna i nieznana, lecz wydająca się trzymać określonych reguł, magia jest żywiołem nad żywiołami. Do jej władania konieczny jest otwarty umysł i wiele lat poświęconych jej zagadnieniom. Nie sposób jest jednak okiełznać jej całej, a każdy kto z niej czerpie winien skupić się na jednym jej aspekcie, aby sił i talentów swoich nie zmarnował.*
 > 
 > Xanax Mądry, *Wstęp do magii*
 

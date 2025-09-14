@@ -1,3 +1,4 @@
-This is a test index page. :)
-
-Go there for the first read [[Eksploratorzy]]
+---
+title: Ankasekima
+---
+To jest strona opisująca świat przygotowany do prywatnej gry TTRPG w klimatach zbliżonych do serii Dungeons & Dragons, czy The Elder Scrolls.

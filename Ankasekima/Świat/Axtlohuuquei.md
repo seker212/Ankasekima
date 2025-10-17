@@ -16,5 +16,5 @@ Axtlohuuquei to kraina położona daleko na zachodzie nazywana też krajem zacho
 
 ---
 # Wymowa Nazw Własnych
-Axtlohuuquei - *Asztowukei*
+Axtlohuuquei - *Asztowukei*  
 Quohuequitl - *Kowekit*

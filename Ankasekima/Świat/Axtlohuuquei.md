@@ -1,5 +1,6 @@
 # Opis krainy
 Axtlohuuquei to kraina położona daleko na zachodzie nazywana też krajem zachodzącego słońca.
+
 ---
 # Kodeks Wojownika
 ## \#1 Prawda Quohuequitla
@@ -12,7 +13,8 @@ Axtlohuuquei to kraina położona daleko na zachodzie nazywana też krajem zacho
 ***Jest jedno słońce, wiele gór i jeszcze więcej drzew. Bądź posłuszny najpierw swej Matronie, potem klanowi, potem rodzinie a dopiero potem sobie!***
 ## \#5 Prawda Quohuequitla
 ***Ciepła krew jest znakiem życia tak jak zimna znakiem śmierci. Ciesz się z bólu, bo żyjesz i zadawaj śmierć bez cierpienia.***
+
 ---
 # Wymowa Nazw Własnych
-Axtlohuuquei - ***Asztowukei***
-Quohuequitl - ***Kowekit***
+Axtlohuuquei - *Asztowukei*
+Quohuequitl - *Kowekit*

@@ -4,9 +4,9 @@ Zdolności akademickie z zakresu sztuk magicznych, rytuałów i zjawisk nadprzyr
 Umiejętność łączenia kropek. Czasem zamiast kropek wykorzystuje się fakty, wydarzenia i poszlaki, ale to szczegół.
 # Koncentracja
 Umiejętność wyciszenia umysłu, skupienia się nad konkretną rzeczą i otwarcia się na elementy niewidoczne. W większości przypadków niezbędna do wykorzystywania magii.
-# Mowa
-Elokwencja w wysławianiu się, wiedza i umiejętności zarówno w zakresie dyplomacji, co podrywania płci przeciwnej.
-# Oszustwo
+# Charyzma
+Prezencja, pierwsze wrażenie. Elokwencja w wysławianiu się, wiedza i umiejętności zarówno w zakresie dyplomacji, co podrywania płci przeciwnej.
+# Odgrywanie
 Umiejętność odpowiedzialna za zachowywanie prawdy dla siebie, udawanie osoby, którą się nie jest i kłamanie w żywe oczy. Osoby z dobrze wyćwiczonym oszukiwaniem są zwykle znacznie trudniejsze do "odczytania", niż inne, nawet kiedy nie próbują aktywnie kłamać. 
 # Percepcja
 Zdolności zwracania uwagi na przedmioty, dźwięki i ruchy bardziej subtelne, nie rzucających się każdemu w oczy, czy uszy.
@@ -26,75 +26,13 @@ Wykorzystanie broni zasięgowej, głównie łuków, kusz, czy noży do rzucania.
 Umiejętność czytania z ludzi jak z ksiąg. Pomaga oszustom zorientować się kiedy ich rozmówca łyka ich opowiastkę, a kiedy nie koniecznie. Ale przydaje się również osobom uczciwym nie dać się nabrać na kłamstwa innych, czy nawet przejrzeć czyjeś zamiary.
 # Wytrzymałość
 Zdolność organizmu do przyjmowania fizycznych ciosów i upadków, a nader często - przy zakładach w karczmie o to kto jest w stanie więcej wypić. 
-# SPIS POMYSŁÓW I UMIEJĘTNOŚCI NIEUSTALONYCH
-
-## Zdolności artystyczne
-### Umiejętności do zagospodarowania
-- malarstwo 
-- rzemiosło 
-- muzyka 
-- taniec
-### Propozycje
-1. **Występowanie (Performance)**
-	- malarstwo
-	- muzyka
-	- taniec
-2. Rozbicie:
-	1. **Rzemiosło** - rzeźbienie, malarstwo
-	2. **Akrobatykę** - różne sztuczki, taniec?
-	3. **Zwinne palce** - muzyka
-3. Muzyka jako część percepcji
-4. **Zręczność** 
-	- koordynację ręka-oko
-	- kradzież kieszonkowa
-	- otwieranie zamków
-	- rzemiosło
-	- malarstwo
-	- taniec
-## Zdolności zręcznościowe
-### Umiejętności do zagospodarowania
-- otwieranie zamków
-- utrzymywanie balansu na linie
-- kradzież kieszonkowa
-- koordynacja ręka-oko
-- nagłe łapanie tego co wypadło z rąk
-- lądowanie przy spadaniu
-- unikanie pocisków (rzut obronny na [[Umiejętności#Celność|Celność]])
-### Propozycje
-1. **Zwinne palce**
-	- otwieranie zamków
-	- kradzież kieszonkowa
-2. Rozbicie:
-	1. **Akrobatyka**
-		- utrzymanie balansu na linie
-		- lądowanie przy spadaniu
-	2. **Refleks**
-		- nagłe łapanie tego co wypadło z rąk
-		- unikanie pocisków (rzut obronny na [[Umiejętności#Celność|Celność]])
-3. **Akrobatyka**
-	- utrzymanie balansu na linie
-	- lądowanie przy spadaniu
-	- nagłe łapanie tego co wypadło z rąk
-	- unikanie pocisków (rzut obronny na [[Umiejętności#Celność|Celność]])
-4. Rozbicie:
-	1. **Akrobatyka** - zwinność, refleks (dotyczący ciała) i wygibasy wszelakie
-	2. **Zręczność** 
-		- koordynację ręka-oko
-		- kradzież kieszonkowa
-		- otwieranie zamków
-		- rzemiosło
-		- malarstwo
-		- taniec
-
-## Zdolności wiedzowe
-### Umiejętności do zagospodarowania
-- zaawansowane leczenie (nie koniecznie pierwszej pomocy)
-- historia świata
-- alchemia - tworzenie mikstur i znajomość składników
-### Propozycje
-1. Wspólna umiejętność na elementy w zakresie wiedzy
-2. Wspólna umiejętność na elementy w zakresie wiedzy ze wskazaniem na specjalizacje postaci
-3. **Alchemia** i **Wiedza** jako osobne umiejętności
-## Inne pomysły
-1. Rozbić [[Umiejętności#Mowa|Mowę]]
-2. **Obchodzenie się za zwierzętami** (jako umiejętność)
+# Akrobatyka
+Balans na linie, taniec, atak szermierki
+# Zręczność
+Robota precyzyjna/czasochłonna, otwieranie zamków, malowanie, rzemiosło
+# Medycyna
+Alchemia, leczenie zaawansowane.
+# Refleks
+Uniki na [[Umiejętności#Celność|Celność]], kradzież kieszonkowa, zwinne palce
+# Zajmowanie się zwierzętami
+Znajomość zwierząt hodowlanych jak i dzikich. Zdolność podejścia do nich, obcowania z nimi.

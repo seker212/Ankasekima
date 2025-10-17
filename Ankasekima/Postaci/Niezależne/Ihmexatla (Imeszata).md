@@ -1,0 +1,4 @@
+- 8-latka
+- nie ma możliwości mówić
+- widzi niewidzialne potwory magiczne ze względu na to, że jest jeszcze dzieckiem
+- Duch odebrał jej rodzicom duszę, a jej mowę. Jest jedyną osobą, która go widziała.

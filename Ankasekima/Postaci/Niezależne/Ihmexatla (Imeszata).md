@@ -1,3 +1,4 @@
+- Córka Uvetlhli (Łetli) oraz Quzetloama (Ksetaama) z klanu Xitlehzotlaqul (Szitezotak) z Axtlohuuquei (Asztowukei).
 - 8-latka
 - nie ma możliwości mówić
 - widzi niewidzialne potwory magiczne ze względu na to, że jest jeszcze dzieckiem

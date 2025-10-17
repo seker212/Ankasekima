@@ -10,7 +10,7 @@
 
 >[!info]-
 >Określenie charakteru postaci, sposobu jej zachowania. Tutaj wchodzą te elementy, które wykorzystacie w ramach jej odgrywania. 
->
+> 
 >Pytania pomocnicze (nie ograniczać się do nich, one mają was tylko naprowadzić):
 >- Jak postrzegasz obcych ludzi? Czy ich życie ma dla ciebie wartość? 
 >- Czy widząc osobę w potrzebie jesteś gotów/gotowa do bezinteresownej pomocy?
@@ -49,7 +49,6 @@
 
 >[!info]-
 >Cele i motywacje zarówno wasze jako gracza, jak i waszej postaci. Dobrze, żeby było widać, które cele są wyłącznie gracza, a (jeszcze) nie postaci.
->
 >Pytania pomocnicze:
 >- Zlecenie jakiego typu by najchętniej przyjęła twoja postać? Pomoc w ochronie wioski przed zewnętrznym zagrożeniem? Ochrona naukowca podczas zwiedzania ruin? Polowanie na wielkiego potwora? Zabójstwo złego człowieka? 
 >- Jeżeli GM chce naturalnie poruszyć twoją postać w konkretnym kierunku to czym by była przysłowiowa marchewka na kiju dla twojej postaci?
@@ -64,7 +63,7 @@
 
 >[!info]-
 >Na jakich elementach waszej postaci GM może położyć swoje ręce? 
->
+>	
 >Pytania pomocnicze:
 >- Co można wykorzystać, żeby ruszyć twoją postać? 
 >- Czy masz obecnie jakieś problemy?

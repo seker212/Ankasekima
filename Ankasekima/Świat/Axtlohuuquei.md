@@ -20,7 +20,7 @@ W dzisiejszych czasach królestwo mimo że na pierwszy rzut oka jednolite, tak n
 ## \#7 Prawda Quohuequitla
 ***Słońce wstaje każdego dnia i każdego dnia zachodzi. Nie unikaj trudności życia i nie bój się śmierci!***
 ## \#8 Prawda Quohuequitla
-***Słońce nawet przy pochmurnym niebie oświetla nieboskłon. Nie bądź skryty i nie pozwól by przyćmiła cię słabość@***
+***Słońce nawet przy pochmurnym niebie oświetla nieboskłon. Nie bądź skryty i nie pozwól by przyćmiła cię słabość!***
 ## \#9 Prawda Quohuequitla
 ***Słońce zachodzi oddając niebo gwiazdom i księżycowi. Nie zagarniaj dla siebie chwały, lecz okaż szacunek swoim wrogom i przyjaciołom!***
 ## \#10 Prawda Quohuequitla

@@ -24,7 +24,7 @@ W dzisiejszych czasach królestwo mimo że na pierwszy rzut oka jednolite, tak n
 ## \#9 Prawda Quohuequitla
 ***Słońce zachodzi oddając niebo gwiazdom i księżycowi. Nie zagarniaj dla siebie chwały, lecz okaż szacunek swoim wrogom i przyjaciołom!***
 ## \#10 Prawda Quohuequitla
-***Wstające słońce jest czerwone jak rodzące się dziecko. Pamiętaj, że krew i słońce są powiązane, więc nie przelewaj jej pochopnie!***
+***Niebo niebieskie bywa czerwone jak krew. Nie bój się rozlewu krwi gdyż taka jest kolej rzeczy!***
 ## \#11 Prawda Quohuequitla
 ***Rozlana krew w swoim pragnieniu dopełnienia wsiąka w ziemię. Gdy zostanie wyrządzona krzywda kieruj się sprawiedliwością a nie miłosierdziem!***
 ## \#12 Prawda Quohuequitla

@@ -30,7 +30,7 @@
 >[!info]-
 >Tu jest historia i wydarzenia, które dotknęły waszą postać. Poza potencjalnie rozległym opisem wydarzeń dobrze, żeby na górze wyciągnąć z niego krótkie punkty określające esencję całości, które można szybko przeczytać w trakcie sesji.
 
-- Brat Quzetloama (Ksetaama) oraz wojownik z klanu Xitlehzotlaqul (Szitezotak) z Axtlohuuquei (Asztowukei).  
+- Brat Quzetloama (Ksetaama) oraz wojownik z klanu Xitlehzotlaqul (Szitezotak) z  [[Axtlohuuquei]] (Asztowukei).  
 - Wojownik antymagiczny z Axtlohuuquei. Podróżuje z [[Ihmexatla (Imeszata)]], która widzi niewidzialne potwory/duchy, na które polują. Podróżuje z dzieckiem w podążaniu za potężnym duchem by odzyskać dusze rodziców i mowę dziecka.
 # Relacje
 
@@ -72,11 +72,11 @@ ___
 # Karta Postaci
 Quzehxt z klanu Xitlehzotlaqul
 ## Aspekty
-- High Concept: Niszczę duchy i magię.
+- High Concept: Wojownik zwalczający wszelkie duchy jakie napotka.
 - Trouble: Żyję kodeksem wojownika.
 - Relationship: Ihmexatla jest pod moją opieką.
 - Free 1: Obserwuję nie tylko oczami.
-- Free 2: Najbardziej widowiskowy strój.
+- Free 2: Zawsze mam najbardziej widowiskowy wygląd.
 ## Witalność
 - Stres Fizyczny: 4/4
 - Stres Mentalny: 6/6
@@ -112,3 +112,4 @@ Quzehxt z klanu Xitlehzotlaqul
 - Runiczny Tepoztopilli (Teposto'pili)
 - Pierzysty Płaszcz
 - Biżuteria i Talizmany Ochronne
+- Talizmany, które po nałożeniu na broń pozwalają na jedną scenę walki z duchami.

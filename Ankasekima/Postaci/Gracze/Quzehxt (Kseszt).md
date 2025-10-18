@@ -5,7 +5,7 @@
 
 - Mroczny elf. Wysoki i smukły o długich białych włosach związanych w kucyk. Szara skóra oraz czarne oczy bez białek.
 - Twarz w połowie sparaliżowana i wyraźnie się źle zabliźniła.
-- Nosi ekstrawaganckie i bardzo kolorowe ubrania (Pillarman) odsłaniając większość swojego ciała. Sandały, shorty, otwarta kamizelka, kaptur. Każda z tych części ubioru pokryta jest cekinami i kolorowymi łuskami. Do tego peleryna z kolorowych piór oraz przytłaczające ilości biżuterii.
+- Nosi ekstrawaganckie i bardzo kolorowe ubrania (Pillarman) odsłaniając większość swojego ciała. Sandały, przepaska, otwarta kamizelka, pierzasta tiara. Każda z tych części ubioru pokryta jest cekinami i kolorowymi łuskami. Do tego peleryna z kolorowych piór oraz przytłaczające ilości biżuterii.
 # Charakter
 
 >[!info]-

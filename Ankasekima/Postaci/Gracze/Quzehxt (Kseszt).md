@@ -3,9 +3,9 @@
 >[!info]-
 >Krótki opis wyglądu zewnętrznego. W tym też np. wiek.
 
-- Mroczny elf/Drow 
-- Szare włosy
-- Rzuca się w oczy ze swoimi ubraniami
+- Mroczny elf. Wysoki i smukły o długich białych włosach związanych w kucyk. Szara skóra oraz czarne oczy bez białek.
+- Twarz w połowie sparaliżowana i wyraźnie się źle zabliźniła.
+- Nosi ekstrawaganckie i bardzo kolorowe ubrania (Pillarman) odsłaniając większość swojego ciała. Sandały, shorty, otwarta kamizelka, kaptur. Każda z tych części ubioru pokryta jest cekinami i kolorowymi łuskami. Do tego peleryna z kolorowych piór oraz przytłaczające ilości biżuterii.
 # Charakter
 
 >[!info]-
@@ -23,15 +23,15 @@
 >- **O czym marzysz?** Jeżeli masz mieć sen, w którym świetnie się czujesz to w nim jest? Dominacja nad twoimi wrogami? Willa pełna pieniędzy? Spokojny czas spędzany z bliską osobą na osobności? 
 
 - Małomówny, pasywny
-- ciekawski nowej kultury
-- Dobry 
+- Ciekawski nowej kultury
+- Dobry, praworządny i honorowy 
 # Historia
 
 >[!info]-
 >Tu jest historia i wydarzenia, które dotknęły waszą postać. Poza potencjalnie rozległym opisem wydarzeń dobrze, żeby na górze wyciągnąć z niego krótkie punkty określające esencję całości, które można szybko przeczytać w trakcie sesji.
 
 - Brat Quzetloama (Ksetaama) oraz wojownik z klanu Xitlehzotlaqul (Szitezotak) z Axtlohuuquei (Asztowukei).  
-- Wojownik niemagiczny. Podróżuje z [[Ihmexatla (Imeszata)]], która widzi niewidzialne potwory/duchy, na które polują. Podróżuje z dzieckiem w podążaniu za potężnym duchem by odzyskać dusze rodziców i mowę dziecka.
+- Wojownik antymagiczny z Axtlohuuquei. Podróżuje z [[Ihmexatla (Imeszata)]], która widzi niewidzialne potwory/duchy, na które polują. Podróżuje z dzieckiem w podążaniu za potężnym duchem by odzyskać dusze rodziców i mowę dziecka.
 # Relacje
 
 >[!info]-
@@ -52,6 +52,7 @@
 >- Czy jako gracz chcesz, żeby twoja postać znajdywała się w jakiś konkretnych sytuacjach?
 
 - Odzyskać mowę bratanicy i dusze jej rodziców.
+- Żyć wedle kodeksu wojownika.
 
 # Plot Hooki
 
@@ -66,3 +67,48 @@
 - Duch (ala arcydemon), który ukradł dusze rodzicom
 - Zachcianki dziecka i opieka nad dzieckiem
 - Opętania, duchy itp. - wydarzenia tego typu w okolicy postaci
+
+___
+# Karta Postaci
+Quzehxt z klanu Xitlehzotlaqul
+## Aspekty
+- High Concept: Niszczę duchy i magię.
+- Trouble: Żyję kodeksem wojownika.
+- Relationship: Ihmexatla jest pod moją opieką.
+- Free 1: Obserwuję nie tylko oczami.
+- Free 2: Najbardziej widowiskowy strój.
+## Witalność
+- Stres Fizyczny: 4/4
+- Stres Mentalny: 6/6
+- Konsekwencje: -
+## Skille
+- Arcana +2
+- Dedukcja
+- Koncentracja
+- Charyzma
+- Odgrywanie
+- Percepcja +2
+- Przetrwanie +1
+- Przeszukiwanie +4
+- Siła
+- Siła Woli +3
+- Skradanie
+- Celność
+- Wyczucie Intencji +1
+- Wytrzymałość +1
+- Akrobatyka +3
+- Zręczność
+- Medycyna
+- Refleks +2
+- Zajmowanie się Zwierzętami +1
+## Stunty
+- Ponieważ jestem doświadczonym łowcą potworów polegającym na zrozumieniu, otrzymuję +2 do Akrobatyki podczas ataku, jeżeli wykorzystuję aspekt który wcześniej wprowadziłem tworząc przewagę.
+- Ponieważ walcząc z potężniejszymi przeciwnikami muszę polegać na swoim sprycie i szybkości mogę bronić się w walce wręcz za pomocą Refleksu, jeżeli mam swobodę ruchu.
+- Ponieważ nauczyłem się zwracać uwagę na zachowanie przeciwnika każdym z moich zmysłów otrzymuję dodatkową darmową inwokację jeżeli za pomocą Przeszukiwania stworzę przewagę w walce.
+- Ponieważ otaczam się talizmanami ochraniającymi mnie przed magią daję wszystkim sojusznikom +1 Siły Woli do obrony przeciw magii gdy są blisko mnie.
+## Odnowienia
+2/2
+## Ekwipunek 
+- Runiczny Tepoztopilli (Teposto'pili)
+- Pierzysty Płaszcz
+- Biżuteria i Talizmany Ochronne

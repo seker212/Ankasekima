@@ -3,7 +3,7 @@
 >[!info]-
 >Krótki opis wyglądu zewnętrznego. W tym też np. wiek.
 
-- 
+- test
 # Charakter
 
 >[!info]-

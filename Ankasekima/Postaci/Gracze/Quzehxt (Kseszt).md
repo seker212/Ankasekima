@@ -103,7 +103,7 @@ Quzehxt z klanu Xitlehzotlaqul
 - Zajmowanie się Zwierzętami +1
 ## Stunty
 - Ponieważ jestem doświadczonym łowcą potworów polegającym na zrozumieniu, otrzymuję +2 do Akrobatyki podczas ataku, jeżeli wykorzystuję aspekt który wcześniej wprowadziłem tworząc przewagę.
-- Ponieważ walcząc z potężniejszymi przeciwnikami muszę polegać na swoim sprycie i szybkości mogę bronić się w walce wręcz za pomocą Refleksu, jeżeli mam swobodę ruchu.
+- Ponieważ nauczyłem się wykorzystywać otwarcia i potknięcia przeciwników, aby pokonać ich jak najszybciej mogę zużyć darmowe wykorzystanie aspektu stworzonego przeze mnie w walce aby otrzymać +3 do obrażeń (nie jest to użycie dające +2 do rzutu).
 - Ponieważ nauczyłem się zwracać uwagę na zachowanie przeciwnika każdym z moich zmysłów otrzymuję dodatkową darmową inwokację jeżeli za pomocą Przeszukiwania stworzę przewagę w walce.
 - Ponieważ otaczam się talizmanami ochraniającymi mnie przed magią daję wszystkim sojusznikom +1 Siły Woli do obrony przeciw magii gdy są blisko mnie.
 ## Odnowienia

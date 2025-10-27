@@ -30,7 +30,7 @@
 - kocha tańczyć
 - z pozoru wesoła i otwarta
 - jednak szybko wycofuje się gdy ktoś próbuje ją bliżej poznać
-- boi się niebezpieczeństwa i ryzyka krzywdy
+- boi się niebezpieczeństwa i ryzyka doznania krzywdy
 - uwielbia poznawać nowe kultury i zwyczaje (które następnie zapisuje w swoim dzienniku)
 - tęskni za ojczyzną
 - nie do końca rozumie zwyczaje w krainie, w której dzieje się akcja

@@ -87,6 +87,7 @@
 - ludzie znający jej naród i jego zwyczaje
 - lokalne wydarzenia kulturalne
 - wszystko co odkrywa i wystawia na próbę wartości i moralność współtowarzyszy
+- zagrożenie dla drużyny
 
 # Karta Postaci
 Menari z ludu Setha'ari

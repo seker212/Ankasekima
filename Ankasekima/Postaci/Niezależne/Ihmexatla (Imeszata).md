@@ -9,7 +9,7 @@ Ihmexatla z klanu Xitlehzotlaqul
 ## Aspekty
 - High Concept: Ponieważ jestem dzieckiem widzę duchy takie jak ten który skrzywdził moją rodzinę.
 - Trouble: Skradziono mi język.
-- Relationship: Chcę tańczyć jak [[Nienazwana postać M]] ale jestem niecierpliwa.
+- Relationship: Chcę tańczyć jak [[Menari]] ale jestem niecierpliwa.
 - Free: Niczego się nie boję nawet jak coś mi poważnie zagraża.
 ## Witalność
 - Stres Fizyczny: 3/3

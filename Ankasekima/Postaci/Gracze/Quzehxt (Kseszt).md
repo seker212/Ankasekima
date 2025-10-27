@@ -38,7 +38,7 @@
 >Lista znajomych wam postaci razem z informacją jakie macie z nimi relacje i z czego one wynikają. Do tej listy zaliczamy zarówno rodzinę, niedawno nabytych znajomych, jak i wrogów, czy osoby wam nieprzychylne.
 
 - [[Ihmexatla (Imeszata)]] - bratanica, towarzyszka podróży
-- [[Nienazwana postać M]] - spotkana podczas podróży
+- [[Menari]] - spotkana podczas podróży
 # Cele i Motywacje
 
 >[!info]-

@@ -3,7 +3,14 @@
 >[!info]-
 >Krótki opis wyglądu zewnętrznego. W tym też np. wiek.
 
-- test
+- "Ta, która tańczy"
+- człowiek
+- wczesne lata 20'
+- brązowe falowane włosy, średniej długości
+- kaszmirowa chusta/szal
+- suknia podróżnicza i spodnie
+- u boku torba na dziennik i pióro
+- przewiązana szarfą obciążoną na końcach, którą wykorzystuje do walki i tańca (teshar, czyt. te-szar)
 # Charakter
 
 >[!info]-
@@ -20,19 +27,29 @@
 >- **Czego się boisz?** Świadomie lub nie. Odejścia bliskich? Braku walidacji ze strony innych ludzi? Bycia zapomnianym? Tego, że nie uda Ci się wypełnić twojej misji?
 >- **O czym marzysz?** Jeżeli masz mieć sen, w którym świetnie się czujesz to w nim jest? Dominacja nad twoimi wrogami? Willa pełna pieniędzy? Spokojny czas spędzany z bliską osobą na osobności? 
 
-- 
+- kocha tańczyć
+- z pozoru wesoła i otwarta
+- jednak szybko wycofuje się gdy ktoś próbuje ją bliżej poznać
+- boi się niebezpieczeństwa i ryzyka krzywdy
+- uwielbia poznawać nowe kultury i zwyczaje (które następnie zapisuje w swoim dzienniku)
+- tęskni za ojczyzną
 # Historia
 
 >[!info]-
 >Tu jest historia i wydarzenia, które dotknęły waszą postać. Poza potencjalnie rozległym opisem wydarzeń dobrze, żeby na górze wyciągnąć z niego krótkie punkty określające esencję całości, które można szybko przeczytać w trakcie sesji.
 
-- 
+- tancerka i uczennica strażniczki opowieści (Sen-karet, czyt. normalnie)
+- należy do ludu Setha'ari (czyt. se-ta-a-ri)
+- wygnana za dopuszczenie śmierci swojego seneta
+- wkrótce po tym poznała [[Quzehxt (Kseszt)]] i postanowiła z nim podróżować
 # Relacje
 
 >[!info]-
 >Lista znajomych wam postaci razem z informacją jakie macie z nimi relacje i z czego one wynikają. Do tej listy zaliczamy zarówno rodzinę, niedawno nabytych znajomych, jak i wrogów, czy osoby wam nieprzychylne.
 
-- 
+- Merakh (czyt. me-rach) - jej senet, który nie żyje
+- [[Quzehxt (Kseszt)]] - wojownik, którego poznała na drodze; jest zafascynowana jego determinacją w wypełnianiu swojego kodeksu
+- [[Ihmexatla (Imeszata)]] - bratanica wojownika; uczy jej tańca wieczorami
 # Cele i Motywacje
 
 >[!info]-

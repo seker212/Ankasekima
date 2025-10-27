@@ -40,7 +40,7 @@
 
 - tancerka i uczennica strażniczki opowieści (Sen-karet, czyt. normalnie)
 - należy do ludu Setha'ari (czyt. se-ta-a-ri)
-- wygnana za dopuszczenie śmierci swojego seneta
+- wygnana za porażkę w za śmierci swojego seneta
 - wkrótce po tym poznała [[Quzehxt (Kseszt)]] i postanowiła z nim podróżować
 # Relacje
 
@@ -62,7 +62,17 @@
 >- Czy jako gracz chcesz, żeby twoja postać miała okazję do rozwoju w konkretnym kierunku?
 >- Czy jako gracz chcesz, żeby twoja postać znajdywała się w jakiś konkretnych sytuacjach?
 
-- 
+- powrócić do ojczyzny (chęć) 
+- odnalezć miejsce dla siebie w Ankasekima (potrzeba)
+- wziąć odpowiedzialność za kogoś (potrzeba)
+- zrozumieć co kieruje [[Quzehxt (Kseszt)]], że niestrudzenie trzyma się swoich wartości i skąd ma pewność, że one są dobre (chęć)
+- potwierdzić lub zaprzeczyć, że wartości wpajane jej od dziecka to kłamstwo (potrzeba)
+- zebrać jak największą ilości historii różnych ludów (chęć i potrzeba)
+- unikać wracania do swojej przeszłości (chęć)
+- pogodzić się z wydarzeniami z przeszłości (potrzeba)
+
+*chęć - to co postać chce i myśli, że byłoby dla niej najlepsze*
+*potrzeba - to co postać tak naprawdę potrzebuje (i potencjalnie neguje tę potrzebę)*
 
 # Plot Hooki
 
@@ -74,4 +84,46 @@
 >- Czy masz obecnie jakieś problemy?
 >- Co chcesz, żeby GM dopisał w ramach historii do twojej postaci?
 
-- 
+- jeszcze nie wiem
+
+# Karta Postaci
+Menari z ludu Setha'ari
+## Aspekty
+- High Concept: 
+- Trouble: 
+- Relationship: 
+- Free 1: 
+- Free 2:
+## Witalność
+- Stres Fizyczny: 
+- Stres Mentalny: 
+- Konsekwencje: -
+## Skille
+- Arcana
+- Dedukcja
+- Koncentracja
+- Charyzma
+- Odgrywanie
+- Percepcja
+- Przetrwanie
+- Przeszukiwanie
+- Siła
+- Siła Woli
+- Skradanie
+- Celność
+- Wyczucie Intencji
+- Wytrzymałość
+- Akrobatyka
+- Zręczność
+- Medycyna
+- Refleks
+- Zajmowanie się Zwierzętami
+## Stunty
+- Stunt 1
+- Stunt 2
+- Stunt 3
+## Odnowienia
+3/3
+## Ekwipunek 
+- szarfa bitewna, obciążana na końcach (teshar)
+- dziennik z zapisanymi historiami

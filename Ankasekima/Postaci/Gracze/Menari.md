@@ -33,6 +33,7 @@
 - boi się niebezpieczeństwa i ryzyka krzywdy
 - uwielbia poznawać nowe kultury i zwyczaje (które następnie zapisuje w swoim dzienniku)
 - tęskni za ojczyzną
+- nie do końca rozumie zwyczaje w krainie, w której dzieje się akcja
 # Historia
 
 >[!info]-

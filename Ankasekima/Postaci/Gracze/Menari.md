@@ -84,7 +84,9 @@
 >- Czy masz obecnie jakieś problemy?
 >- Co chcesz, żeby GM dopisał w ramach historii do twojej postaci?
 
-- jeszcze nie wiem
+- ludzie znający jej naród i jego zwyczaje
+- lokalne wydarzenia kulturalne
+- wszystko co odkrywa i wystawia na próbę wartości i moralność współtowarzyszy
 
 # Karta Postaci
 Menari z ludu Setha'ari

@@ -104,23 +104,23 @@ Menari z ludu Setha'ari
 - Konsekwencje: -
 ## Skille
 - Arcana
-- Dedukcja
-- Koncentracja
-- Charyzma
-- Odgrywanie
-- Percepcja
+- Dedukcja +1
+- Koncentracja +3
+- Charyzma +1
+- Odgrywanie +3
+- Percepcja +2
 - Przetrwanie
 - Przeszukiwanie
 - Siła
-- Siła Woli
+- Siła Woli +1
 - Skradanie
 - Celność
 - Wyczucie Intencji
-- Wytrzymałość
-- Akrobatyka
-- Zręczność
+- Wytrzymałość +2
+- Akrobatyka +4
+- Zręczność +1
 - Medycyna
-- Refleks
+- Refleks +2
 - Zajmowanie się Zwierzętami
 ## Stunty
 - Stunt 1

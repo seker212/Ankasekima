@@ -77,3 +77,45 @@ Inne
 
 - Zbieranie artefaktów i kasy
 - Byłe, przejściowe zainteresowania/przygody romantyczne
+
+# Karta Postaci
+
+## Aspekty
+- High Concept: 
+- Trouble: Nie przyjmuję sprzeciwu wobec siebie
+- Relationship: 
+- Free 1: 
+- Free 2: 
+## Witalność
+- Stres Fizyczny: 3/3
+- Stres Mentalny: 4/4
+- Konsekwencje: -
+## Skille
+- Arcana
+- Dedukcja 
+- Koncentracja 
+- Charyzma +4
+- Odgrywanie +2
+- Percepcja +2
+- Przetrwanie 
+- Przeszukiwanie +1
+- Siła
+- Siła Woli +1
+- Skradanie +1
+- Celność +1
+- Wyczucie Intencji +3
+- Wytrzymałość
+- Akrobatyka +3
+- Zręczność
+- Medycyna 
+- Refleks +2
+- Zajmowanie się Zwierzętami
+## Stunty
+- Nadnaturalny urok - zasada działania: \[REDACTED\]
+
+## Odnowienia
+3/3
+## Ekwipunek 
+- Zielnik jej elfiej matki
+- Dzienniki jej ojca.
+- Sakiewka z ziółami i grzybami

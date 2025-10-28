@@ -26,6 +26,10 @@
 - Ostrożna
 - Przebodźcowana wśród ludzi i w miastach
 - Zagubiona w świecie poza lasem i swoją mała elfią wioską
+- Ceni każde życie zwierząt i ludzi
+- Boi się, że została sama już na zawsze
+
+Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o których czytała tylko w książkach, jest gotowa pomoc każdemu w potrzebie jednak ze sporą doza ostrożności. Przez to w jakim zamkniętym otoczeniu dorastała nie ma zbyt wielu uprzedzeń czy cech, które ją drażnią. Nie ufa sobie samej w wielu swoich decyzjach oprócz zielarstwa, na ten temat jest bardzo świadoma swojej wiedzy, dlatego też inne zadania woli wykonywać w grupie, schować się za towarzyszem. Aerin boi się, że została sama już na zawsze, że nigdy nie będzie miała już rodziny, kogoś bliskiemu, osobie w której pełni zaufa. Mimo że nie wygląda ma bardzo mocną głowę do alkoholu, wiele nalewek, czy potek robiła na jego bazie przez co ma na alkohol wysoką odporność, tak samo jak na słabsze trucizny (kto nie pomylił ze sobą jagód i ojciec musiał go odtruwać niech pierwszy rzuci kamieniem *Aerin zrobiła to wielokrotnie*) 
 # Historia
 
 >[!info]-
@@ -38,12 +42,14 @@
 - Znajomość zielarstwa i medycyny
 - Brak umiejętności społecznych
 - Nie zna świata poza miejscem wychowania (w tym innych ras niż elfy)
+- Jej rodzice byli podróżnikami i eksploratorami przez praktycznie całe swoje życie, dlatego nie mieli biologicznych dzieci. Aerin uznawali za dar od bogów. przekazywali jej cała swoja wiedzę zdobytą podczas swoich podróży (wiedzę subiektywną)
 # Relacje
 
 >[!info]-
 >Lista znajomych wam postaci razem z informacją jakie macie z nimi relacje i z czego one wynikają. Do tej listy zaliczamy zarówno rodzinę, niedawno nabytych znajomych, jak i wrogów, czy osoby wam nieprzychylne.
 
 - Starsze elfy z pobliskiej wioski, które były znajomymi przybranych rodziców i odwiedzały ich dom.
+- Kupiec, który przywoził do wioski różne egzotycznie i pochodzące z dalekich krajów rzeczy, podobno syn jednego z mieszańców wioski.
 - Brak relacji z ludźmi poza wioską.
 # Cele i Motywacje
 
@@ -58,6 +64,9 @@
 
 - Poznawanie świata
 - Odkrycie własnego pochodzenia - skąd jest, jaką jest rasą i co się z tym wiąże
+- Ochrona i leczenie, 
+- ma obsesje na temat poznawania nowych rzeczy, jak ktoś jej obieca **nową książkę** to zrobi, prawie, wszystko.
+
 
 # Plot Hooki
 
@@ -73,3 +82,47 @@
 	- kim byli jej rodzice? 
 	- dlaczego została porzucona w lesie?
 - Co to znaczy być półdiablicą? (właściwości rasy, kultura)
+
+# Karta Postaci
+
+## Aspekty
+- High Concept: 
+- Trouble: 
+- Relationship: 
+- Free 1: 
+- Free 2: 
+## Witalność
+- Stres Fizyczny: 4/4
+- Stres Mentalny: 3/3
+- Konsekwencje: -
+## Skille
+- Arcana +1
+- Dedukcja +3
+- Koncentracja +1
+- Charyzma
+- Odgrywanie
+- Percepcja +2
+- Przetrwanie +3
+- Przeszukiwanie +2
+- Siła
+- Siła Woli
+- Skradanie +1
+- Celność +1
+- Wyczucie Intencji
+- Wytrzymałość +2
+- Akrobatyka
+- Zręczność
+- Medycyna +4
+- Refleks
+- Zajmowanie się Zwierzętami
+## Stunty
+- Przez jej związanie z naturą dostaję +2 przetrwania w otoczeniu natury/roślin (lasy, łąki, jaskinie pełne grzybów)
+- Przez jej związanie z naturą dostaję +2 do dedukcji w otoczeniu natury/roślin (lasy, łąki, jaskinie pełne grzybów)
+- Ponieważ regularnie uczyłam się alchemii na słabych truciznach i alkoholu, dostaję +2 do obrony na wytrzymałość przeciwko nim.  
+
+## Odnowienia
+3/3
+## Ekwipunek 
+- Zielnik jej elfiej matki
+- Dzienniki jej ojca.
+- Sakiewka z ziółami i grzybami

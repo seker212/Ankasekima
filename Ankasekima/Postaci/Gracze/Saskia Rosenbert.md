@@ -62,7 +62,7 @@ Inne
 - Kasa - zapracować na bogate, wygodne życie
 - Kolekcjonerstwo rzeczy ciekawych i unikalnych 
 - Wyzwania, adrenalina
-- \[GRACZ\] Relacja romantyczna z [[Nienazwana postać A]]
+- \[GRACZ\] Relacja romantyczna z [[Talar]]
 - \[GRACZ\] Postać wpływająca na wolę innych osób
 
 # Plot Hooki

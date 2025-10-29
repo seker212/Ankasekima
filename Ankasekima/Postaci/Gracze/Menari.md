@@ -41,7 +41,7 @@
 
 - tancerka i uczennica strażniczki opowieści (Sen-karet, czyt. normalnie)
 - należy do ludu Setha'ari (czyt. se-ta-a-ri)
-- wygnana za porażkę w za śmierci swojego seneta
+- wygnana za nie ocalenie swojego seneta
 - wkrótce po tym poznała [[Quzehxt (Kseszt)]] i postanowiła z nim podróżować
 # Relacje
 
@@ -73,6 +73,7 @@
 - pogodzić się z wydarzeniami z przeszłości (potrzeba)
 
 *chęć - to co postać chce i myśli, że byłoby dla niej najlepsze*
+
 *potrzeba - to co postać tak naprawdę potrzebuje (i potencjalnie neguje tę potrzebę)*
 
 # Plot Hooki
@@ -93,14 +94,14 @@
 # Karta Postaci
 Menari z ludu Setha'ari
 ## Aspekty
-- High Concept: 
-- Trouble: 
-- Relationship: 
+- High Concept: Tancerka-mag wygnana ze swojego plemienia
+- Trouble: Boję się krzywdy w konflikcie lub walce
+- Relationship: Każdy ma zawsze siebie na pierwszym miejscu
 - Free 1: 
 - Free 2:
 ## Witalność
-- Stres Fizyczny: 
-- Stres Mentalny: 
+- Stres Fizyczny: 4/4
+- Stres Mentalny: 3/3
 - Konsekwencje: -
 ## Skille
 - Arcana

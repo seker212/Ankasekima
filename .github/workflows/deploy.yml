@@ -43,7 +43,3 @@ jobs:
           PAGE_URL: ${{needs.deploy.outputs.page_url}}
           GITHUB_JOB_STATUS: ${{ needs.deploy.result }}
           DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
-          DISCORD_TEMPLATE_CONTENT: |
-            ${STATUS_EMOJI} Quartz site has been deployed. 
-            Last commit: ${GIT_COMMIT_MESSAGE} by ${GIT_COMMITTER_USERNAME}. 
-            Visit at ${PAGE_URL}

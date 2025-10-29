@@ -1,14 +1,25 @@
 # Wygląd
 
->[!info]-
->Krótki opis wyglądu zewnętrznego. W tym też np. wiek.
+>
+>Wiek: 20 lat
+>
+>Długie, kasztanowe włosy, fioletowe oczy. Smukła sylwetka, dość ciemna, karmelowa karnacja
+>
+>Wzrost: 175 cm
 
-- 
 # Charakter
 
->[!info]-
->Określenie charakteru postaci, sposobu jej zachowania. Tutaj wchodzą te elementy, które wykorzystacie w ramach jej odgrywania. 
+>Określenie charakteru postaci, sposobu jej zachowania. Tutaj wchodzą te elementy, które wykorzystacie w ramach jej odgrywania.
+> 
+>Świetnie radzi sobie z ludźmi, ma niesamowitą charyzmę. Ludzie lgną do niej, nie sposób powiedzieć, czy to ze względu na jej wygląd, czy też charakter, który sprawia, że łatwo się z nią rozmawia. Lubi rozmawiać z ludźmi, jest ciakawa ich historii i co nimi kieruje. Szczególnie fascynują ją ludzie, którzy wędrują po świecie zamiast siedzieć w jednym miejscu. To oni zainspirowali ją do dołączenia do grupy.
 >
+>Jeśli zauważy, że ktoś przed jej oczami cierpi, to pomoże mu, jednakże nie jest samarytanką, która będzie szukać sposobów na zakończenie biedy na świecie, musi najpierw zadbać o siebie. Nie cierpi jak ludzie oceniają ją za to, że nosi drogą biżuterię, zamiast sprzedać ją na pomoc ubogim. Świat nie jest sprawiedliwym miejscem i ona sama go nie zbawi.
+>
+>Jest przyzwyczajona do wygodnego życia, pochodzi z dość bogatej rodziny, więc niczego jej nie brakowało. Porzuciła jednak to życie, bo bardziej od komfortu ceni sobie swoją osobę i nie zamierza podporządkowywać swojego życia pod kogoś, kto nie jest nią zainteresowany. Ceni się wyżej niż to i dlatego też uważa, że poradzi sobie zarabiając samej na swoją przyszłość. Uważa, że jeśli wystarczająco się postara, to nie będzie miała z tym dużych problemów. Może i kobiety mają ciężej w życiu, ale ona jak dotąd sobie radziła, szczęście zawsze jej dopisywało, więc co może pójść nie tak?
+>
+>
+>
+> 
 >Pytania pomocnicze (nie ograniczać się do nich, one mają was tylko naprowadzić):
 >- Jak postrzegasz obcych ludzi? Czy ich życie ma dla ciebie wartość? 
 >- Czy widząc osobę w potrzebie jesteś gotów/gotowa do bezinteresownej pomocy?

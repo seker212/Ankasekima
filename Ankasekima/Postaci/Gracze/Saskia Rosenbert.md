@@ -1,5 +1,4 @@
 # Wygląd
-
 >
 >Wiek: 20 lat
 >
@@ -9,7 +8,6 @@
 
 # Charakter
 
->Określenie charakteru postaci, sposobu jej zachowania. Tutaj wchodzą te elementy, które wykorzystacie w ramach jej odgrywania.
 > 
 >Świetnie radzi sobie z ludźmi, ma niesamowitą charyzmę. Ludzie lgną do niej, nie sposób powiedzieć, czy to ze względu na jej wygląd, czy też charakter, który sprawia, że łatwo się z nią rozmawia. Lubi rozmawiać z ludźmi, jest ciakawa ich historii i co nimi kieruje. Szczególnie fascynują ją ludzie, którzy wędrują po świecie zamiast siedzieć w jednym miejscu. To oni zainspirowali ją do dołączenia do grupy. Z takimi ludźmi może rozmawiać godzinami, pić, a nawet pójść do łóżka. 
 >
@@ -19,21 +17,10 @@
 >
 >Podświadomie boi się odrzucenia przez kogoś, niezależnie czy jest to osoba jej bliska czy nie. Nie przyznałaby się jednak do tego przed nikim.
 >Nie lubi wszystkiego co się wije.
->Poza tym na pewno na swojej drodze spotka demony czy inne dziwactwa, których będzie się bała, ale jeszcze nie jest tego świadoma.
+>Poza tym na pewno na swojej drodze spotka demony czy inne dziwactwa, których będzie się bała, ale jeszcze nie jest tego świadoma. Jednak jej dość uparta natura sprawia, że nie będzie uciekać przed problemami, chyba, że będzie to ogromna dżdżownica czy inne paskudztwo.
 >
 >W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby móc myśleć, że się spełniła i zobaczyła naprawdę wiele. Może założyłaby sklep z antykami? Tak bardzo lubi kolekcjonować ciekawe i dziwne rzeczy. Może ktoś też by to docenił. 
 > 
->Pytania pomocnicze (nie ograniczać się do nich, one mają was tylko naprowadzić):
->- Jak postrzegasz obcych ludzi? Czy ich życie ma dla ciebie wartość? 
->- Czy widząc osobę w potrzebie jesteś gotów/gotowa do bezinteresownej pomocy?
->- Co cenisz w innych osobach, a czego nie tolerujesz?
->- Jakie masz podejście do życia? Czy kierujesz się jakimś wierzeniem lub filozofią?
->- Jak postrzegasz sam(a) siebie? Skąd się bierze to przekonanie o sobie?
->- W tawernie leje się alcohol, bard przygrywa, robi się impreza. Gdzie jesteś w tym wszystkim?
->- Czujesz, że w jaskini przed tobą czyha znaczne, lecz nieznane niebezpieczeństwo. Co robisz? Biegniesz samemu je sprawdzić i stawić mu czoła? Czekasz, aż ktoś inny zdecyduje się tam wejść, żeby się schować za plecami? Czy w ogóle wszedłbyś/weszłabyś tam nie mając drużyny?
->- **Czego się boisz?** Świadomie lub nie. Odejścia bliskich? Braku walidacji ze strony innych ludzi? Bycia zapomnianym? Tego, że nie uda Ci się wypełnić twojej misji?
->- **O czym marzysz?** Jeżeli masz mieć sen, w którym świetnie się czujesz to w nim jest? Dominacja nad twoimi wrogami? Willa pełna pieniędzy? Spokojny czas spędzany z bliską osobą na osobności? 
-
 - Towarzyska
 - Potrzebuje walidacji innych ludzi (jest do niej przyzwyczajona)
 - Szczerze interesuje się ludźmi - ich historiami, zainteresowaniami
@@ -90,6 +77,7 @@ Inne
 >- Co chcesz, żeby GM dopisał w ramach historii do twojej postaci?
 
 - Zbieranie artefaktów i kasy
+- Niezachwiana pewność siebie Saskii wynikająca z jej wyglądu i charyzmy
 - Byłe, przejściowe zainteresowania/przygody romantyczne
 
 # Karta Postaci

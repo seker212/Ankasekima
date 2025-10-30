@@ -114,6 +114,4 @@ Inne
 ## Odnowienia
 3/3
 ## Ekwipunek 
-- Zielnik jej elfiej matki
-- Dzienniki jej ojca.
-- Sakiewka z ziółami i grzybami
+- Amulet z miejscem na jakiś kamień (znaleziony w piwnicy okultystów)

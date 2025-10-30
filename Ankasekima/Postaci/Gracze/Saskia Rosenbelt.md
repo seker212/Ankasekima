@@ -1,26 +1,25 @@
 # Wygląd
->
->Wiek: 20 lat
->
->Długie, kasztanowe włosy, fioletowe oczy. Smukła sylwetka, dość ciemna, karmelowa karnacja
->
->Wzrost: 175 cm
+
+Wiek: 20 lat
+
+Długie, kasztanowe włosy, fioletowe oczy. Smukła sylwetka, dość ciemna, karmelowa karnacja
+
+Wzrost: 175 cm
 
 # Charakter
 
-> 
->Świetnie radzi sobie z ludźmi, ma niesamowitą charyzmę. Ludzie lgną do niej, nie sposób powiedzieć, czy to ze względu na jej wygląd, czy też charakter, który sprawia, że łatwo się z nią rozmawia. Lubi rozmawiać z ludźmi, jest ciakawa ich historii i co nimi kieruje. Szczególnie fascynują ją ludzie, którzy wędrują po świecie zamiast siedzieć w jednym miejscu. To oni zainspirowali ją do dołączenia do grupy. Z takimi ludźmi może rozmawiać godzinami, pić, a nawet pójść do łóżka. 
->
->Jeśli zauważy, że ktoś przed jej oczami cierpi, to pomoże mu, jednakże nie jest samarytanką, która będzie szukać sposobów na zakończenie biedy na świecie, musi najpierw zadbać o siebie. Nie cierpi jak ludzie oceniają ją za to, że nosi drogą biżuterię, zamiast sprzedać ją na pomoc ubogim. Świat nie jest sprawiedliwym miejscem i ona sama go nie zbawi.
->
->Jest przyzwyczajona do wygodnego życia, pochodzi z dość bogatej rodziny, więc niczego jej nie brakowało. Porzuciła jednak to życie, bo bardziej od komfortu ceni sobie swoją osobę i nie zamierza podporządkowywać swojego życia pod kogoś, kto nie jest nią zainteresowany. Ceni się wyżej niż to i dlatego też uważa, że poradzi sobie zarabiając samej na swoją przyszłość. Uważa, że jeśli wystarczająco się postara, to nie będzie miała z tym dużych problemów. Może i kobiety mają ciężej w życiu, ale ona jak dotąd sobie radziła, szczęście zawsze jej dopisywało, więc co może pójść nie tak?
->
->Podświadomie boi się odrzucenia przez kogoś, niezależnie czy jest to osoba jej bliska czy nie. Nie przyznałaby się jednak do tego przed nikim.
->Nie lubi wszystkiego co się wije.
->Poza tym na pewno na swojej drodze spotka demony czy inne dziwactwa, których będzie się bała, ale jeszcze nie jest tego świadoma. Jednak jej dość uparta natura sprawia, że nie będzie uciekać przed problemami, chyba, że będzie to ogromna dżdżownica czy inne paskudztwo.
->
->W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby móc myśleć, że się spełniła i zobaczyła naprawdę wiele. Może założyłaby sklep z antykami? Tak bardzo lubi kolekcjonować ciekawe i dziwne rzeczy. Może ktoś też by to docenił. 
-> 
+Świetnie radzi sobie z ludźmi, ma niesamowitą charyzmę. Ludzie lgną do niej, nie sposób powiedzieć, czy to ze względu na jej wygląd, czy też charakter, który sprawia, że łatwo się z nią rozmawia. Lubi rozmawiać z ludźmi, jest ciakawa ich historii i co nimi kieruje. Szczególnie fascynują ją ludzie, którzy wędrują po świecie zamiast siedzieć w jednym miejscu. To oni zainspirowali ją do dołączenia do grupy. Z takimi ludźmi może rozmawiać godzinami, pić, a nawet pójść do łóżka. 
+
+Jeśli zauważy, że ktoś przed jej oczami cierpi, to pomoże mu, jednakże nie jest samarytanką, która będzie szukać sposobów na zakończenie biedy na świecie, musi najpierw zadbać o siebie. Nie cierpi jak ludzie oceniają ją za to, że nosi drogą biżuterię, zamiast sprzedać ją na pomoc ubogim. Świat nie jest sprawiedliwym miejscem i ona sama go nie zbawi.
+
+Jest przyzwyczajona do wygodnego życia, pochodzi z dość bogatej rodziny, więc niczego jej nie brakowało. Porzuciła jednak to życie, bo bardziej od komfortu ceni sobie swoją osobę i nie zamierza podporządkowywać swojego życia pod kogoś, kto nie jest nią zainteresowany. Ceni się wyżej niż to i dlatego też uważa, że poradzi sobie zarabiając samej na swoją przyszłość. Uważa, że jeśli wystarczająco się postara, to nie będzie miała z tym dużych problemów. Może i kobiety mają ciężej w życiu, ale ona jak dotąd sobie radziła, szczęście zawsze jej dopisywało, więc co może pójść nie tak?
+
+Podświadomie boi się odrzucenia przez kogoś, niezależnie czy jest to osoba jej bliska czy nie. Nie przyznałaby się jednak do tego przed nikim.
+Nie lubi wszystkiego co się wije.
+Poza tym na pewno na swojej drodze spotka demony czy inne dziwactwa, których będzie się bała, ale jeszcze nie jest tego świadoma. Jednak jej dość uparta natura sprawia, że nie będzie uciekać przed problemami, chyba, że będzie to ogromna dżdżownica czy inne paskudztwo.
+
+W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby móc myśleć, że się spełniła i zobaczyła naprawdę wiele. Może założyłaby sklep z antykami? Tak bardzo lubi kolekcjonować ciekawe i dziwne rzeczy. Może ktoś też by to docenił. 
+ 
 - Towarzyska
 - Potrzebuje walidacji innych ludzi (jest do niej przyzwyczajona)
 - Szczerze interesuje się ludźmi - ich historiami, zainteresowaniami
@@ -35,9 +34,6 @@
 - Zdradzona przez narzeczonego z facetem
 - Ze względu na duże rodzeństwo rodzice zgodzili się na jej samotną przygodę (rodzeństwo prawdopodobnie jest w związku dla majątku i ustawionego życia) 
 # Relacje
-
->[!info]-
->Lista znajomych wam postaci razem z informacją jakie macie z nimi relacje i z czego one wynikają. Do tej listy zaliczamy zarówno rodzinę, niedawno nabytych znajomych, jak i wrogów, czy osoby wam nieprzychylne.
 
 Rodzina - dobrze zarabiająca klasa średnia
 - Brat Simon. Uczył jej szermierki (zawodowy szermierz, najstarszy)
@@ -83,8 +79,8 @@ Inne
 # Karta Postaci
 
 ## Aspekty
-- High Concept: 
-- Trouble: Nie przyjmuję sprzeciwu wobec siebie
+- High Concept: niewyobrażalnie piękna, nieodrzucona przez nikogo
+- Trouble: Nie przyjmuje sprzeciwu wobec siebie
 - Relationship: 
 - Free 1: 
 - Free 2: 

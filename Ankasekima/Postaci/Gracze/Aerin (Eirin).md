@@ -22,14 +22,14 @@
 >- **Czego się boisz?** Świadomie lub nie. Odejścia bliskich? Braku walidacji ze strony innych ludzi? Bycia zapomnianym? Tego, że nie uda Ci się wypełnić twojej misji?
 >- **O czym marzysz?** Jeżeli masz mieć sen, w którym świetnie się czujesz to w nim jest? Dominacja nad twoimi wrogami? Willa pełna pieniędzy? Spokojny czas spędzany z bliską osobą na osobności? 
 
-- Nieśmiała
-- Ostrożna
+- Niby ostrożna, ale ciekawość czesto z jej ostrożnoscią wygrywa.
 - Przebodźcowana wśród ludzi i w miastach
-- Zagubiona w świecie poza lasem i swoją mała elfią wioską
+- Zdarza sie jej zadawać innym pytania, któr moga być nie do końca na miejscu.
+- Czuje się zagubiona w świecie poza lasem i swoją mała elfią wioską
 - Ceni każde życie zwierząt i ludzi
 - Boi się, że została sama już na zawsze
 
-Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o których czytała tylko w książkach, jest gotowa pomoc każdemu w potrzebie jednak ze sporą doza ostrożności. Przez to w jakim zamkniętym otoczeniu dorastała nie ma zbyt wielu uprzedzeń czy cech, które ją drażnią. Nie ufa sobie samej w wielu swoich decyzjach oprócz zielarstwa, na ten temat jest bardzo świadoma swojej wiedzy, dlatego też inne zadania woli wykonywać w grupie, schować się za towarzyszem. Aerin boi się, że została sama już na zawsze, że nigdy nie będzie miała już rodziny, kogoś bliskiemu, osobie w której pełni zaufa. Mimo że nie wygląda ma bardzo mocną głowę do alkoholu, wiele nalewek, czy potek robiła na jego bazie przez co ma na alkohol wysoką odporność, tak samo jak na słabsze trucizny (kto nie pomylił ze sobą jagód i ojciec musiał go odtruwać niech pierwszy rzuci kamieniem *Aerin zrobiła to wielokrotnie*) 
+Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o których czytała tylko w książkach, jest gotowa pomoc każdemu w potrzebie jednak ze  doza ostrożności. Przez to w jakim zamkniętym otoczeniu dorastała nie ma zbyt wielu uprzedzeń czy cech, które ją drażnią. Nie ufa sobie samej w wielu swoich decyzjach oprócz zielarstwa, na ten temat jest bardzo świadoma swojej wiedzy, dlatego też inne zadania woli wykonywać w grupi. Aerin boi się, że została sama już na zawsze, że nigdy nie będzie miała już rodziny, kogoś bliskiemu, osobie w której pełni zaufa. Mimo że nie wygląda ma bardzo mocną głowę do alkoholu, wiele nalewek, czy potek robiła na jego bazie przez co ma na alkohol wysoką odporność, tak samo jak na słabsze trucizny (kto nie pomylił ze sobą jagód i ojciec musiał go odtruwać niech pierwszy rzuci kamieniem *Aerin zrobiła to wielokrotnie*) 
 # Historia
 
 >[!info]-
@@ -37,11 +37,11 @@ Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o który
 
 
 - Porzucona jako maleństwo w lesie z odciętym ogonem
-- Adoptowana przez starszą parę elfów, którzy niedawno umarli.
+- Adoptowana przez starszą parę elfów, byłych eskploratorów, którzy niedawno umarli.
 - Wychowana w lesie, nieopodal małej elfiej wioski 
 - Znajomość zielarstwa i medycyny
 - Brak umiejętności społecznych
-- Nie zna świata poza miejscem wychowania (w tym innych ras niż elfy)
+- Nie zna świata poza miejscem wychowania (w tym innych ras niż elfy). Jej źrodłem wiedzy jest dziennik jej ojca, dziennik powstawał jednak kilka jak nie kilkaset lat temu. 
 - Jej rodzice byli podróżnikami i eksploratorami przez praktycznie całe swoje życie, dlatego nie mieli biologicznych dzieci. Aerin uznawali za dar od bogów. przekazywali jej cała swoja wiedzę zdobytą podczas swoich podróży (wiedzę subiektywną)
 # Relacje
 
@@ -62,10 +62,9 @@ Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o który
 >- Czy jako gracz chcesz, żeby twoja postać miała okazję do rozwoju w konkretnym kierunku?
 >- Czy jako gracz chcesz, żeby twoja postać znajdywała się w jakiś konkretnych sytuacjach?
 
-- Poznawanie świata
+- Poznawanie świata, ogromna ciekawość świata
 - Odkrycie własnego pochodzenia - skąd jest, jaką jest rasą i co się z tym wiąże
-- Ochrona i leczenie, 
-- ma obsesje na temat poznawania nowych rzeczy, jak ktoś jej obieca **nową książkę** to zrobi, prawie, wszystko.
+- Ma obsesje na temat poznawania nowych rzeczy, zdobywaniu wiedzy. Jak ktoś jej obieca **nową książkę** to zrobi, prawie, wszystko.
 
 
 # Plot Hooki
@@ -101,13 +100,13 @@ Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o który
 - Koncentracja +1
 - Charyzma
 - Odgrywanie
-- Percepcja +2
+- Percepcja +1
 - Przetrwanie +3
 - Przeszukiwanie +2
 - Siła
 - Siła Woli
 - Skradanie +1
-- Celność +1
+- Celność +2
 - Wyczucie Intencji
 - Wytrzymałość +2
 - Akrobatyka
@@ -117,7 +116,6 @@ Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o który
 - Zajmowanie się Zwierzętami
 ## Stunty
 - Przez jej związanie z naturą dostaję +2 przetrwania w otoczeniu natury/roślin (lasy, łąki, jaskinie pełne grzybów)
-- Przez jej związanie z naturą dostaję +2 do dedukcji w otoczeniu natury/roślin (lasy, łąki, jaskinie pełne grzybów)
 - Ponieważ regularnie uczyłam się alchemii na słabych truciznach i alkoholu, dostaję +2 do obrony na wytrzymałość przeciwko nim.  
 
 ## Odnowienia
@@ -125,4 +123,4 @@ Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o który
 ## Ekwipunek 
 - Zielnik jej elfiej matki
 - Dzienniki jej ojca.
-- Sakiewka z ziółami i grzybami
+- Sakiewka z ziółami i grzybamii eliksirami.

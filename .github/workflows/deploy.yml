@@ -43,3 +43,10 @@ jobs:
           PAGE_URL: ${{needs.deploy.outputs.page_url}}
           GITHUB_JOB_STATUS: ${{ needs.deploy.result }}
           DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJSON(github) }}
+        run: echo "$GITHUB_CONTEXT"

@@ -1,0 +1,16 @@
+{
+    "content": "[rpg.fryta.top](https://rpg.fryta.top) update - *${GITHUB_JOB_STATUS}*",
+    "tts": false,
+    "embeds": [
+        {
+            "title": "${GIT_COMMIT_MESSAGE_ESCAPED}",
+            "color": ${STATUS_COLOR_DECIMAL},
+            "author": {
+                "name": "${SENDER_LOGIN}",
+                "icon_url": "${SENDER_AVATAR}",
+                "url": "${SENDER_HTML_URL}"
+            },
+            "description": "Pushed [`${GIT_SHA_SHORT}`](${GITHUB_COMPARE})\n\nGithub Action [#${GITHUB_RUN_NUMBER}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
+        }
+    ]
+}

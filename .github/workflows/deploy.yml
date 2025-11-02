@@ -39,8 +39,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: ls
-        run: ls
       - name: Action - notify
         uses: up9cloud/action-notify@v0.5
         env:
@@ -50,4 +48,4 @@ jobs:
           SENDER_LOGIN: ${{github.event.sender.login}}
           SENDER_AVATAR: ${{github.event.sender.avatar_url}}
           SENDER_HTML_URL: ${{github.event.sender.html_url}}
-          GITHUB_COMPARE_URL: ${{github.event.compare}}
+          GITHUB_COMPARE: ${{github.event.compare}}

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Saskia
+---
+
 # Wygląd
 
 Wiek: 20 lat

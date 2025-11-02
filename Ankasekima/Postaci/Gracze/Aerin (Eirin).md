@@ -1,3 +1,8 @@
+---
+aliases:
+  - Aerin
+---
+
 # Wygląd
 
 >[!info]-

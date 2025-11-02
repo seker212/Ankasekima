@@ -1,3 +1,8 @@
+---
+aliases:
+  - Ihmexatla
+---
+
 - Córka Uvetlhli (Łetli) oraz Quzetloama (Ksetaama) z klanu Xitlehzotlaqul (Szitezotak) z [[Axtlohuuquei]] (Asztowukei).
 - 8-latka
 - Nie ma możliwości mówić

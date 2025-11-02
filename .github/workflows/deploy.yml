@@ -42,7 +42,7 @@ jobs:
         env:
           GITHUB_JOB_STATUS: ${{ needs.deploy.result }}
           DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
-          DISCORD_TEMPLATE_PATH: "./template/discord.json"
+          DISCORD_TEMPLATE_PATH: "/template/discord.json"
           SENDER_LOGIN: ${{github.event.sender.login}}
           SENDER_AVATAR: ${{github.event.sender.avatar_url}}
           SENDER_HTML_URL: ${{github.event.sender.html_url}}

@@ -39,6 +39,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: ls
+        run: ls
       - name: Action - notify
         uses: up9cloud/action-notify@v0.5
         env:

@@ -29,6 +29,7 @@ aliases:
 
 - Niby ostrożna, ale ciekawość często z jej ostrożnoscią wygrywa.
 - Przebodźcowana wśród ludzi i w miastach
+- gotowa do bezinteresowanej pomocy
 - Zdarza sie jej zadawać innym pytania, któr mogą być nie do końca na miejscu.
 - Czuje się zagubiona w świecie poza lasem i swoją mała elfią wioską
 - Ceni każde życie zwierząt i ludzi
@@ -90,10 +91,10 @@ Aerin ceni każde życie od malutkich gryzonii do wielkich wielorybów, o który
 # Karta Postaci
 
 ## Aspekty
-- High Concept: 
-- Trouble: 
+- High Concept: Odkryc swoje pochodzenie i odkrywać swiat, który znany był tylko z ksiązek
+- Trouble: Nie odpuści okazji  by zgłębić wiedzę zwłaszcza na temat ziół/natury
 - Relationship: 
-- Free 1: 
+- Free 1: dziennik jej ojca byłego eksprolatra zawierający wiedzę botaniczną 
 - Free 2: Najpierw mówi, potem myśli
 ## Witalność
 - Stres Fizyczny: 4/4

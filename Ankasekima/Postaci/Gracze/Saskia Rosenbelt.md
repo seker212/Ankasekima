@@ -40,6 +40,7 @@ W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby 
 - Zaaranżowane małżeństwo (odwołane)
 - Zdradzona przez narzeczonego z facetem
 - Ze względu na duże rodzeństwo, rodzice zgodzili się na jej samotną przygodę (rodzeństwo może kontynuować linię rodu, nie mają nic przeciwko ustawionemu życiu)
+- w jej rodzinie krąży historia, że jakaś prapraprababka taty była syreną, ale Saskia nigdy nie brała tego na serio i uważa, że to po prostu plotka powtarzana przez jej rodzinę od kilku pokoleń
 
 Od małego uczy się szermierki od brata, z początku po cichu wykradali się, aby rodzice tego nie dostrzegli, potem jednak wyszło to na jaw. Mama nie była przekonana, ale że Saskia jest z natury uparta, a jej brat nigdy by jej niczego nie odmówił, nie było sensu ich od tego odciągać i pozwolono jej kontynuować trening w czasie wolnym.
 Przy tym tata Saskii dopilnował, żeby każda z jego córek umiała się obronić. Stało się to po tym, jak zobaczył, że dziesięciolętnią Saskię zaczęli zagabywać mężczyźni na ulicach.

@@ -17,6 +17,8 @@ Wzrost: 175 cm
 
 Jeśli zauważy, że ktoś przed jej oczami cierpi, to pomoże mu, jednakże nie jest samarytanką, która będzie szukać sposobów na zakończenie biedy na świecie, musi najpierw zadbać o siebie. Nie cierpi jak ludzie oceniają ją za to, że nosi drogą biżuterię, zamiast sprzedać ją na pomoc ubogim. Świat nie jest sprawiedliwym miejscem i ona sama go nie zbawi.
 
+Poznała wielu ludzi, więc wie, że na tym świecie jest wiele zła - z tego powodu jest ostrożna, gdy nawiązuje jakieś głębsze relacje, ale intuicyjnie potrafi poznać dobrych ludzi i ufa sobie, że potrafi wybrać tych odpowiednich. Chociaż wiadomo, że zdarzają się wyjątki.
+
 Jest przyzwyczajona do wygodnego życia, pochodzi z dość bogatej rodziny, więc niczego jej nie brakowało. Porzuciła jednak to życie, bo bardziej od komfortu ceni sobie swoją osobę i nie zamierza podporządkowywać swojego życia pod kogoś, kto nie jest nią zainteresowany. Ceni się wyżej niż to i dlatego też uważa, że poradzi sobie zarabiając samej na swoją przyszłość. Uważa, że jeśli wystarczająco się postara, to nie będzie miała z tym dużych problemów. Może i kobiety mają ciężej w życiu, ale ona jak dotąd sobie radziła, szczęście zawsze jej dopisywało, więc co może pójść nie tak?
 
 Podświadomie boi się odrzucenia przez kogoś, niezależnie czy jest to osoba jej bliska czy nie. Nie przyznałaby się jednak do tego przed nikim.
@@ -31,6 +33,7 @@ W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby 
 - Wysokie poczucie własnej wartości
 - Bardzo uparta, jak się na coś zawieźmie, nie można jej tego wyperswadować z głowy
 - Ma potrzebę adrenaliny, ale nie pcha się w ogień
+
   
 # Historia
 
@@ -54,29 +57,23 @@ Z bratem miała świetną relację, siostry kochała, ale nigdy nie trzymała si
 Inne
 - Były narzeczony z zaaranżowanego małżeństwa, gej
 - Szybkie, przejściowe relacje z ludźmi
+- 
 # Cele i Motywacje
 
->[!info]-
->Cele i motywacje zarówno wasze jako gracza, jak i waszej postaci. Dobrze, żeby było widać, które cele są wyłącznie gracza, a (jeszcze) nie postaci.
->
->Pytania pomocnicze:
->- Zlecenie jakiego typu by najchętniej przyjęła twoja postać? Pomoc w ochronie wioski przed zewnętrznym zagrożeniem? Ochrona naukowca podczas zwiedzania ruin? Polowanie na wielkiego potwora? Zabójstwo złego człowieka? 
->- Jeżeli GM chce naturalnie poruszyć twoją postać w konkretnym kierunku to czym by była przysłowiowa marchewka na kiju dla twojej postaci?
->- Czy jest jakiś cel, który spowoduje, że jak tylko pojawi się na horyzoncie to od razu za nim pójdziesz, nawet jeżeli reszta drużyny woli być ostrożna lub w ogóle nie jest przekonana i musisz ją zostawić? 
->- Czy jako gracz chcesz, żeby twoja postać miała okazję do rozwoju w konkretnym kierunku?
->- Czy jako gracz chcesz, żeby twoja postać znajdywała się w jakiś konkretnych sytuacjach?
-
-- Kasa - zapracować na bogate, wygodne życie
-- Kolekcjonerstwo rzeczy ciekawych i unikalnych 
-- Wyzwania, adrenalina
+- Pieniążki - chciałaby zapracować na bogate, wygodne życie
+- Kolekcjonerstwo rzeczy ciekawych i unikalnych
+- Wyzwania, poznawanie ciekawych ludzi
+- Na ten moment nie ma chyba niczego, co sprawiłoby, że postawiłaby swój cel ponad cel drużyny (kiedy już ją lepiej pozna)
 - \[GRACZ\] Relacja romantyczna z [[Talar]]
 - \[GRACZ\] Postać wpływająca na wolę innych osób
+- \[GRACZ\] Chciałabym, żeby poznała, czym jest prawdziwy świat - świat oczami osoby, która nie jest z wpływowej rodziny z dużym skarbcem, a osoby, która śpi w lesie bez dachu nad głową, która musi sama zapracować na swoje życie. A w między czasie żeby się przy tym dobrze bawiła i nawiązała dużo przydatnych znajomości.
 
 # Plot Hooki
+
 - Zbieranie artefaktów i kasy
 - Niezachwiana pewność siebie Saskii wynikająca z jej wyglądu i charyzmy
 - Byłe, przejściowe zainteresowania/przygody romantyczne
-- Strach przed starością - uroda kiedyś przeminie, więc musi zapewnić sobie wygodne miejsce na starość - problem w tym, że nie wie gdzie
+- Strach przed starością - uroda kiedyś przeminie, więc musi zapewnić sobie wygodne miejsce na starość - problem w tym, że nie wie gdzie i jak to będzie wyglądać (dlatego teraz korzysta ze swoich wdzięków, póki może)
 - Martwi ją to, że nie wie co się dzieje u jej rodziny
 - Wszelkie spotkania ze stworzeniami wijącymi się są a big no-no
 

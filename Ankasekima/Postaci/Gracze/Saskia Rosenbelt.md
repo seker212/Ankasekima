@@ -20,8 +20,8 @@ Jeśli zauważy, że ktoś przed jej oczami cierpi, to pomoże mu, jednakże nie
 Jest przyzwyczajona do wygodnego życia, pochodzi z dość bogatej rodziny, więc niczego jej nie brakowało. Porzuciła jednak to życie, bo bardziej od komfortu ceni sobie swoją osobę i nie zamierza podporządkowywać swojego życia pod kogoś, kto nie jest nią zainteresowany. Ceni się wyżej niż to i dlatego też uważa, że poradzi sobie zarabiając samej na swoją przyszłość. Uważa, że jeśli wystarczająco się postara, to nie będzie miała z tym dużych problemów. Może i kobiety mają ciężej w życiu, ale ona jak dotąd sobie radziła, szczęście zawsze jej dopisywało, więc co może pójść nie tak?
 
 Podświadomie boi się odrzucenia przez kogoś, niezależnie czy jest to osoba jej bliska czy nie. Nie przyznałaby się jednak do tego przed nikim.
-Nie lubi wszystkiego co się wije.
-Poza tym na pewno na swojej drodze spotka demony czy inne dziwactwa, których będzie się bała, ale jeszcze nie jest tego świadoma. Jednak jej dość uparta natura sprawia, że nie będzie uciekać przed problemami, chyba, że będzie to ogromna dżdżownica czy inne paskudztwo.
+Nie lubi wszystkiego, co się wije.
+Poza tym na pewno na swojej drodze spotka demony czy inne dziwactwa, których będzie się bała, ale jeszcze nie jest tego świadoma. Jednak jej uparta natura sprawia, że nie będzie uciekać przed problemami, chyba, że będzie to ogromna dżdżownica czy inne paskudztwo.
 
 W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby móc myśleć, że się spełniła i zobaczyła naprawdę wiele. Może założyłaby sklep z antykami? Tak bardzo lubi kolekcjonować ciekawe i dziwne rzeczy. Może ktoś też by to docenił. 
  
@@ -29,26 +29,31 @@ W przyszłości chciałaby mieć spokojne życie. Jako starsza osoba chciałaby 
 - Potrzebuje walidacji innych ludzi (jest do niej przyzwyczajona)
 - Szczerze interesuje się ludźmi - ich historiami, zainteresowaniami
 - Wysokie poczucie własnej wartości
-- Ma potrzebę adrenaliny i sytuacji niebezpiecznych
+- Bardzo uparta, jak się na coś zawieźmie, nie można jej tego wyperswadować z głowy
+- Ma potrzebę adrenaliny, ale nie pcha się w ogień
+  
 # Historia
-
->[!info]-
->Tu jest historia i wydarzenia, które dotknęły waszą postać. Poza potencjalnie rozległym opisem wydarzeń dobrze, żeby na górze wyciągnąć z niego krótkie punkty określające esencję całości, które można szybko przeczytać w trakcie sesji.
 
 - Zaaranżowane małżeństwo (odwołane)
 - Zdradzona przez narzeczonego z facetem
-- Ze względu na duże rodzeństwo rodzice zgodzili się na jej samotną przygodę (rodzeństwo prawdopodobnie jest w związku dla majątku i ustawionego życia) 
+- Ze względu na duże rodzeństwo, rodzice zgodzili się na jej samotną przygodę (rodzeństwo może kontynuować linię rodu, nie mają nic przeciwko ustawionemu życiu)
+
+Od małego uczy się szermierki od brata, z początku po cichu wykradali się, aby rodzice tego nie dostrzegli, potem jednak wyszło to na jaw. Mama nie była przekonana, ale że Saskia jest z natury uparta, a jej brat nigdy by jej niczego nie odmówił, nie było sensu ich od tego odciągać i pozwolono jej kontynuować trening w czasie wolnym.
+Przy tym tata Saskii dopilnował, żeby każda z jego córek umiała się obronić. Stało się to po tym, jak zobaczył, że dziesięciolętnią Saskię zaczęli zagabywać mężczyźni na ulicach.
+Po oficjalnym zerwaniu zaręczyn przez Saskię, wyprowadziła się od rodziny i od pewnego czasu błąka się po karczmach szukając miejsca (lub ludzi), od których mogłaby zacząć układać sobie życie na nowo. W między czasie poznaje ciekawych ludzi, niektórych zaprasza do swojego łoża, a innych kopie w tyłki, gdy za bardzo się napraszają. 
+  
 # Relacje
 
-Rodzina - dobrze zarabiająca klasa średnia
-- Brat Simon. Uczył jej szermierki (zawodowy szermierz, najstarszy)
-- Siostra Summer (młodsza od Saskii)
+Rodzina - bardzo dobrze zarabiająca klasa średnia
+- Rodzice: Laura i Raston - ojciec jest szermierzem, matka zajmuje się ogarnizacją imprez
+- Brat Simon - uczył jej szermierki (zawodowy szermierz po tacie, najstarszy z rodzeństwa)
+- Siostra Summer (młodsza od Saskii) - w przyszłości zaaranżowane małżeńswto
 - Siostra Stella (najmłodsza)
-- Rodzice
+Z bratem miała świetną relację, siostry kochała, ale nigdy nie trzymała się z nimi tak bardzo jak z Simonem. Rodzice nie byli zachwyceni jej decyzją, ale wspierają ją.
 
 Inne
 - Były narzeczony z zaaranżowanego małżeństwa, gej
-- Szybkie przejściowe relacje z ludźmi
+- Szybkie, przejściowe relacje z ludźmi
 # Cele i Motywacje
 
 >[!info]-
@@ -68,27 +73,21 @@ Inne
 - \[GRACZ\] Postać wpływająca na wolę innych osób
 
 # Plot Hooki
-
->[!info]-
->Na jakich elementach waszej postaci GM może położyć swoje ręce? 
->
->Pytania pomocnicze:
->- Co można wykorzystać, żeby ruszyć twoją postać? 
->- Czy masz obecnie jakieś problemy?
->- Co chcesz, żeby GM dopisał w ramach historii do twojej postaci?
-
 - Zbieranie artefaktów i kasy
 - Niezachwiana pewność siebie Saskii wynikająca z jej wyglądu i charyzmy
 - Byłe, przejściowe zainteresowania/przygody romantyczne
+- Strach przed starością - uroda kiedyś przeminie, więc musi zapewnić sobie wygodne miejsce na starość - problem w tym, że nie wie gdzie
+- Martwi ją to, że nie wie co się dzieje u jej rodziny
+- Wszelkie spotkania ze stworzeniami wijącymi się są a big no-no
 
 # Karta Postaci
 
 ## Aspekty
-- High Concept: niewyobrażalnie piękna, nieodrzucona przez nikogo
+- High Concept: Niewyobrażalnie piękna, nieodrzucona przez nikogo
 - Trouble: Nie przyjmuje sprzeciwu wobec siebie
 - Relationship: 
-- Free 1: 
-- Free 2: 
+- Free 1: Lubi jak ludzie ją dotykają, ale za jej zgodą
+- Free 2: Jadała i spała tylko w drogich karczmach
 ## Witalność
 - Stres Fizyczny: 3/3
 - Stres Mentalny: 4/4
@@ -115,8 +114,11 @@ Inne
 - Zajmowanie się Zwierzętami
 ## Stunty
 - Nadnaturalny urok - zasada działania: \[REDACTED\]
+- Ponieważ uwielbiam kolekcjonować różne dziwne rzeczy, dostaję +2 do przeszukiwania, aby znaleźć wartościowe przedmioty, gdy przeszukujemy okolicę.
 
 ## Odnowienia
 3/3
 ## Ekwipunek 
 - Amulet z miejscem na jakiś kamień (znaleziony w piwnicy okultystów)
+- Piękny rapier, zdobiony szafirami
+- Sakiewka pełna pieniędzy

@@ -37,9 +37,15 @@ jobs:
     runs-on: ubuntu-latest
     needs: deploy
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Action - notify
         uses: up9cloud/action-notify@v0.5
         env:
-          PAGE_URL: ${{needs.deploy.outputs.page_url}}
           GITHUB_JOB_STATUS: ${{ needs.deploy.result }}
           DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
+          DISCORD_TEMPLATE_PATH: "./discord.json"
+          SENDER_LOGIN: ${{github.event.sender.login}}
+          SENDER_AVATAR: ${{github.event.sender.avatar_url}}
+          SENDER_HTML_URL: ${{github.event.sender.html_url}}
+          GITHUB_COMPARE: ${{github.event.compare}}

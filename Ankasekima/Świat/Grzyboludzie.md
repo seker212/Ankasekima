@@ -1,0 +1,2 @@
+- Są to kolonie grzybów przejmujących ciała humanoidalnych istot. 
+- O dziwo jadalne. 

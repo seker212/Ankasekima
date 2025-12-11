@@ -1,3 +1,8 @@
+---
+aliases:
+  - Quzehxt
+---
+
 # Wygląd
 
 >[!info]-

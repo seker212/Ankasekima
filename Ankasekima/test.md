@@ -27,3 +27,14 @@ hgdh
 > Contents
 
 [[Umiejętności#Charyzm]]
+
+[[Talar]] 
+- iushdsaf
+- ewfg
+- rg
+- de
+- b
+*sdffds*
+sdfdsfs
+Stunt, który daje +2 do [[Umiejętności#Dedukcja|Dedukcji]]
+

@@ -48,7 +48,7 @@ Hazardzistka. Jest półsmokiem i ma z tego powodu perfekcyjną pamięć. Czasem
 >- Czy jako gracz chcesz, żeby twoja postać znajdywała się w jakiś konkretnych sytuacjach?
 
 - Budowanie relacji z ludźmi i drużyną
-- \[GRACZ\] Relacja romantyczna z [[Saskia Rosenbert]]
+- \[GRACZ\] Relacja romantyczna z [[Saskia Rosenbelt]]
 
 # Plot Hooki
 

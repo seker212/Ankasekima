@@ -1,4 +1,4 @@
-(tłum. *Dzieci Suchej Ziemi*)
+(tłum. *Dzieci Suchej Ziemi*, czyt. se-ta-a-ri)
 
 >*A wolą Tameru, każdy Setha'ari, gdy osiągnie wiek dojrzały, zostanie dobrany ze swoim senetem, i będzie ich łączyć święta więz. Od tego czasu wspólnie będą się cieszyć, płakać, poznawać i chronić. Za to co jeden z nich uczyni, drugi też będzie odpowiedzialny, a czego zaniedba drugi, i pierwszy będzie winny. A kto by się porzucił swojego seneta w niebezpieczeństwie, ten dopuszcza się czynu najbardziej haniebnego.*
 >
@@ -11,7 +11,7 @@ Hardy lud mieszkający na dalekiej północy. Niziny na których mieszkają, są
 
 **Tameru** (tłum. *Ukochana Ziemia, Spokojna Ziemia*) – bóstwo ziemi, kocha ludzi i chroni ich przed nieszczęściami. Góry to jego dzieci, które zesłał, aby dawały ludziom schronienie przed gniewem Sah’kura.
 
-**Sah’kur** (tłum. *Szepczący z Głębin*) – okrutny bóg morza, chce zniszczyć ludzi w swojej zazdrości. Manifestacją jego gniewu są liczne powodzie, które zsyła, aby się ich pozbyć. Trwa w wiecznej wojnie z Tameru.
+**Sah’kur** (tłum. *Szepczący z Głębin*, czyt. sa-kur) – okrutny bóg morza, chce zniszczyć ludzi w swojej zazdrości. Manifestacją jego gniewu są liczne powodzie, które zsyła, aby się ich pozbyć. Trwa w wiecznej wojnie z Tameru.
 
 ### Wartości:
 
@@ -19,11 +19,11 @@ Hardy lud mieszkający na dalekiej północy. Niziny na których mieszkają, są
 
 Każde dziecko, po osiągnięciu 10 lat, zostaje dobrane w parę z innym dzieckiem i od tego czasu stają się dla siebie „senet”. Od tego momentu dbałość i odpowiedzialność za siebie nawzajem stają się dla nich najważniejszymi rzeczami w ich życiu. Relacja ta ma w założeniu być najsilniejszą relacją w życiu każdego Setha’ari, więc często jest romantyczna (choć nie musi być).
 
-**Neshet** (tłum. *Gniazdo*)
+**Neshet** (tłum. *Gniazdo*, czyt. ne-szet)
 
 Nie wyznają tradycyjnej formy rodziny ani małżeństwa. Gdy para postanawia mieć dziecko (nie muszą być dla siebie senet), rodzi je, a następnie oddaje je do Neshetu, gdzie wychowują się w grupach po ok. 10 dzieci w zbliżonym wieku.
 
-**Sen-karet** (tłum. *głosy przodków*)
+**Sen-karet** (tłum. *głosy przodków*, czyt. sen-ka-ret)
 
 Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługują się praktycznie wyłącznie językiem mówionym. Za utrzymywanie tradycji i przekazywanie historii kolejnym pokoleniom odpowiadają Sen-karet. Każdy z nich spełnia rolę doradcy, historyka i artysty. Po 10 latach każdy z nich wybiera ucznia, któremu przekazuje wszystkie znane sobie historie.
 
@@ -47,7 +47,7 @@ Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługuj�
 
 - codziennie rano rozsypują suchą ziemię przed miejscem, gdzie spali, wymawiając krótką modlitwę do Tameru, np. „Niech ziemia dzisiaj będzie twarda pod naszymi stopami.”
 
-- każdy kto opuścił Gniazdo posiada sakiewkę wypełnioną ziemią z terenów swojej wspólnoty oraz popiołem z ogniska swojego Gniazda
+- każdy kto opuścił swój Neshet posiada sakiewkę wypełnioną ziemią z terenów swojej wspólnoty oraz popiołem z ogniska swojego Neshet
 
 - small talk i omawianie spraw "naokoło" jest negatywnie postrzegane jako strata czasu => Setha'ari zwykli są mówić prosto z mostu i bez ogródek co uważają, ale też nie postrzegają tego jako obrazliwe gdy ktoś się tak do nich zwraca
 
@@ -69,7 +69,7 @@ Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługuj�
 
 - senet - *zjednoczeni*
 
-- Merakh - *ten kto stoi nad innymi*
+- Merakh - *ten kto stoi nad innymi* (czyt. me-rak)
 
 - Setha’ari - *Dzieci Suchej Ziemi*
 
@@ -77,7 +77,7 @@ Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługuj�
 
 - Neshet - *Gniazdo*
 
-- teshar - *smagający bicz*
+- teshar - *smagający bicz* (czyt. te-szar)
 
 - Sah’kur - *Szepczący z Głębin*
 

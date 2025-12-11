@@ -36,7 +36,11 @@ Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługuj�
 - jako zwierzęta juczne hodują kozice, do ciągnięcia powozów i czasem przemieszczania się
 	- z nich także pozyskują kaszmir, który następnie wykorzystują do swoich ubrań => większośc nosi kamizelki, które pomagają im unosić się na wodzie w przypadku wpadnięcia do niej (oczywiście nikt z nich nie umie pływać)
 
-- hodują rośliny podobne do dyni
+- hodują bulety (tłum. okrągła) - rośliny podobne do dyni, ale z wodoodpornymi osłonkami i unoszącymi się na wodzie pnączami
+	- sadzi się je w okresie suchym, na nizinach
+	- gdy przychodzi powódz, zalewa je - ale chroni je osłonka, która nie przepuszcza wody
+	- pnącza natomiast osiągają wiele metrów długości i unoszą się na powierzchni wody, prowadząc fotosyntezę niezbędną roślinie do przeżycia
+	- po opadnięciu wód, Setha'ari rozłupują je i wykorzystują miąższ do rozlicznych celów - od zwykłego gotowanego warzywa po mąkę i wypieki
 
 - woda jest widziana jako „zła, okrutna, ale niezbędna do życia” => z tego powodu mają liczne zwyczaje z nią związane:
 	
@@ -49,7 +53,11 @@ Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługuj�
 
 - każdy kto opuścił swój Neshet posiada sakiewkę wypełnioną ziemią z terenów swojej wspólnoty oraz popiołem z ogniska swojego Neshet
 
+- posiłki spożywa się zwykle w trakcie wykonywania innych czynności i zawsze na stojąco
+
 - small talk i omawianie spraw "naokoło" jest negatywnie postrzegane jako strata czasu => Setha'ari zwykli są mówić prosto z mostu i bez ogródek co uważają, ale też nie postrzegają tego jako obrazliwe gdy ktoś się tak do nich zwraca
+
+- walka i konflikty zbrojne są postrzegane jako porażka każdej innej formy komunikacji - wystarczy, że już natura czyha na ich życia
 
 ### Słownik:
 
@@ -67,18 +75,20 @@ Setha'ari posiadają jedynie prymitywne i podstawowe pismo obrazkowe, posługuj�
 
 ##### Słowa w języku Sethu'ut
 
+- Tameru - *Ukochana Ziemia*
+- 
+- Sah’kur - *Szepczący z Głębin*
+
 - senet - *zjednoczeni*
 
-- Merakh - *ten kto stoi nad innymi* (czyt. me-rak)
+- Merakh - *ten kto stoi nad innymi* (czyt. me-rak), senet Menari
 
 - Setha’ari - *Dzieci Suchej Ziemi*
 
-- sen-karet - *głosy przodków*
+- sen-karet - *głosy przodków*, strażnicy wiedzy ludowej
 
-- Neshet - *Gniazdo*
+- Neshet - *Gniazdo*, miejsce gdzie wychowują się dzieci aż do 10 roku życia
 
-- teshar - *smagający bicz* (czyt. te-szar)
+- teshar - *smagający bicz* (czyt. te-szar), szarfa z obciążnikami na obu stronach, służy głównie do tańca lub ew. samoobrony
 
-- Sah’kur - *Szepczący z Głębin*
-
-- Tameru - *Ukochana Ziemia*
+- buleta - *okrągła*, roślina uprawiana przez lud

@@ -113,6 +113,8 @@ Inne
 ## Stunty
 - Nadnaturalny urok - zasada działania: \[REDACTED\]
 - Ponieważ uwielbiam kolekcjonować różne dziwne rzeczy, dostaję +2 do przeszukiwania, aby znaleźć wartościowe przedmioty, gdy przeszukujemy okolicę.
+## Inne
+- Nieumie pływać
 
 ## Odnowienia
 3/3
@@ -120,3 +122,5 @@ Inne
 - Amulet z miejscem na jakiś kamień (znaleziony w piwnicy okultystów)
 - Piękny rapier, zdobiony szafirami
 - Sakiewka pełna pieniędzy
+- 42 korony i 1 szeląg
+- 2 korony drużyny

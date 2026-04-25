@@ -1,0 +1,14 @@
+### Pierwsze zlecenie drużyny
+- Po ubiciu bandy wilków drużyna puszcza bandytów wolno, nastraszając ich dostatecznie, żeby więcej nie wracali.
+- Drużyna wraca do miasta, znajduje handlarza i zwraca mu jego towar. 
+- Handlarz wygląda na zmartwionego. Okazuje się, że otrzymał list, że jego wspólnik przepadł. Jego zadaniem jest przyniesienie ważnego przedmiotu. Ostatni raz widziano go przed wejściem na bagna. Za bagnami czekała na niego łódź, żeby przetransportować go do portu, lecz ten nigdy się nie pojawił. 
+- Drużyna negocjuje zlecenie: Handlarz zapewni im transport oraz opłaci koszty aż do dotarcia na bagna. Tam drużyna już na własną rękę ma za zadanie odnaleźć wspólnika i wspominany towar. Towar jest mniej więcej wysokości dorosłego człowieka i zabezpieczony białym materiałem owiniętym dookoła niego. Negocjacje za zlecenie kończą się na kwocie 150 złotych koron oraz 3 miksturach leczenia życia (otrzymanych z góry).
+- Drużyna ma wyruszyć o świcie, więc z inicjatywy Talar postanawia wykorzystać ostatni wieczór w mieście wybierając się do karczmy.
+### Noc w karczmie
+- Talar uczy Saskię hazardowego grania i ogrywania ludzi w karty. Znajdują stół z 3 mężczyznami, już lekko wstawionymi od alkoholu. Panie ogrywają panów jak chcą - zaczynając od marginalnych stawek udają łatwe do ogrania, ale po przekonaniu ich do wyższych kwot zaczynają zgarniać całe pule.
+- Menari stara się ożywić towarzystwo do tańca. Niestety trafia na dość opornego osobnika. Jej cel okazuje się nie był wcale taki łatwy jakby chciała.
+- Quzehxt stara się stawiać ideowy opór karczmie i idei picia alkoholu. Rzucając się nie tylko w oczy ale i uszy zostaje wyrzucony z karczmy. Swoją dalszą działalność nawoływania do nawrócenia prowadzi przed karczmą.
+- Aerin znajduje sobie swoje miejsce przy barze karczmy. Po krótkiej rozmowie z karczmarzem dochodzi do pojedynku na shoty.
+- Pojedynek Aerin robi się niezwykle zacięte i długie. Obie strony nie odpuszczają pomimo wypicia już ponad 10 kolejek. Wokół nich zbiera się tłum. Talar węszy możliwość zarobku przyjmując zakłady od ludzi w tłumie.
+- W końcu po zaciekłym pojedynku karczmarz pierwszy pada nieprzytomny. Aerin wygrywa. Talar liczy zyski. Atmosfera w karczmie robi się iście karnawałowa. Bez karczmarza alkohol leje się bez granic, impreza rozkręca się na całego. Finalnie wychodzi na ulice miasta z Menari na przodzie prowadzącą wesołą kompanię.
+- Nazajutrz miasto jest niezwykle ciche od rana. Aerin ma zasłużonego kaca. Drużyna idąc do bram miasta nie spotyka prawie nikogo. Miasto śpi zmęczone poprzednią nocą. Tylko handlarz nie wie co się dzieje, ale Talar zapewnia go, że jeszcze o tym usłyszy. 

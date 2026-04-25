@@ -1,5 +1,3 @@
-#Sesja 4
-
 Idziemy spać. Łącznie z Talar, która miała mieć pierwszą wartę. Aerin poszła w las naćpana roślinką i spotkała naszego małego przyjaciela.
 W pewnym momencie uslyszała wycie z bólu wilka.
 Aerin próbuje uleczyć młodą wilczycę, ale coś nie pykło. W miedzyczasie Talar (także naćpana) dociera do Aerin. Razem przenoszą wilczycę do obozu.

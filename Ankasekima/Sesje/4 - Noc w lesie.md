@@ -19,6 +19,7 @@ Gierek (nasz mały kumpel) chciałby zabrać wilczycę i się nią opiekować, n
 - W tym czasie Quzehxt zaczyna się zastanawiać tym, że ani Talar ani Aerin nie wracają od dłuższego czasu. Próbuje wybudzić Saskię, lecz ta zadowolona ze swojego spoczynku odprawia go, mówiąc, żeby się nie martwił i idzie spać dalej.
 - Aerin i Talar docierają z młodym nad strumyk świeżej wody. Tym razem udaje się oczyścić ranę i porządnie ją opatrzeć. Orientują się, że obie nie wiedzą którędy przyszli ani gdzie jest ich obóz. Na szczęście Kolega jest w stanie wskazać im kierunek gdzie jest droga, skąd bez problemu są w stanie odtworzyć ścieżkę do obozowiska.
 - W obozie Aerin i Talar upewniają się czy Quzehxt nie jest w letargu przez porządnego plaskacza. Quzehxt jest lekko oburzony i zaczyna tłumaczyć, że usypiająca roślina występuje w jego krainie powszechnie. Aerin tłumaczy, jakie roślina wywołuje efekty, mówi też, że w skrajnych  wypadkach wywołuje śmierć.
-- Quzehxt postanawia obudzić Saskie, ale Talar nie pozwala jej uderzyć. Drużyna obseruje jak Saskie wtula się w wilczka i śpi dalej.
+- Quzehxt postanawia obudzić Saskie, ale Talar nie pozwala jej uderzyć. Drużyna obseruje jak Saskie wtula się w wilczka i śpi dalej. Quzehxt wskazuje Aerin jako następną osobe obejmującą wartę, niezadowolona Aerin wspina się na drzewo, a drużyna idzie spać dalej.
+- Aerin budzi Saskie na zmianę warty, ta jest zadowolona, że wyspała się mimo spania pod gołym niebem i z radośc obejmuje kolejną wartę.
 
 [^1]: W formie klasycznych przydrożnych kapliczek, lecz bez żadnej figury, czy postaci wewnątrz.

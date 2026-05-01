@@ -1,0 +1,1 @@
+Stadne, inteligentne i drapieżne stworzenia spotkane w lesie. Charakteryzują się 2 głowami. Walczą w zwarciu, zwykle w grupie.

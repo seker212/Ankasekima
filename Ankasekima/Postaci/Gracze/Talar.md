@@ -63,3 +63,42 @@ Hazardzistka. Jest półsmokiem i ma z tego powodu perfekcyjną pamięć. Czasem
 - Zdobywanie jagódek
 - Uzależnienie od hazardu
 - Wrogowie za długi, ogranie w kasynie itp.
+# Karta Postaci
+## Aspekty
+- High Concept: Jestem półsmokiem z pamięcią absolutną.
+- Trouble: Muszę żuć zimowe jagody, inaczej odbija mi się ogniem.
+- Relationship: Mam kontakty w półświatku.
+- Free 1: Jestem hazardzistką i jestem w tym dobra (ale również od tego uzależniona).
+- Free 2: Jestem poszukiwaną złodziejką, zawsze gotową do ucieczki.
+## Witalność
+- Stres Fizyczny: 3/3
+- Stres Mentalny: 3/3
+- Konsekwencje: -
+## Skille
+- Arcana
+- Dedukcja +2
+- Koncentracja +0
+- Charyzma +0
+- Odgrywanie +3
+- Percepcja +1
+- Przetrwanie
+- Przeszukiwanie +2
+- Siła
+- Siła Woli +1
+- Skradanie +2
+- Celność +1
+- Wyczucie Intencji +1
+- Wytrzymałość
+- Akrobatyka
+- Zręczność +3
+- Medycyna
+- Refleks +4
+- Zajmowanie się Zwierzętami
+## Stunty
+1. Ponieważ jestem uzależniona od hazardu i siedzę w tym od dobrych paru lat, zawsze wiem, gdzie jest najbliższa jaskinia hazardu lub miejsce, gdzie można go uprawiać.
+2. Ponieważ ubieram się zwykle w odpowiedni, nierzucający się w oczy sposób, otrzymuję +2 do rzutów na Skradanie, ale tylko gdy jest ciemno lub jest duży tłum.
+3. Ponieważ mam pamięć absolutną i wychowałam się w bibliotece starej świątyni, otrzymuję +2 do rzutów związanych z wiedzą książkową, ale tylko związaną z religiami lub mającą kilkaset lat.
+
+## Odnowienia
+3/3
+## Ekwipunek 

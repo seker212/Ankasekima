@@ -1,3 +1,0 @@
-- Spotkany na bazarze podczas [[1 - Na co komu pieniądze]]
-- Handluje magicznymi przedmiotami
-- Trudni się również jako pośrednik od zamówień (fixer), np. od czarodziei. Wynajduje ekipy eksploratorów, oferuje zlecenia i wypłaca za nie zapłatę.

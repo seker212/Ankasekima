@@ -1,1 +1,0 @@
-Urocze, niewielkie stworzenie o białej masce jako twarzy i czarnym ciele, sięgające zwykłem ludziom maksymalnie do kolan. Ma plecak równie dużym co on sam. Spotkane podczas [[1 - Na co komu pieniądze]].

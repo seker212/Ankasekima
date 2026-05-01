@@ -1,0 +1,1 @@
+Urocze, niewielkie stworzenie o białej masce jako twarzy i czarnym ciele, sięgające zwykłym ludziom maksymalnie do kolan. Ma plecak równie duży co on sam. Jest pogodny i przyjaźnie nastawiony do drużyny. Dotychczas spotykany jedynie w lesie. Wykazał sympatię do młodego wilczka i wraz z Aerin łatali jego ranę, a ostatecznie podjął się opieki nad nim.

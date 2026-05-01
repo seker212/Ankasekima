@@ -1,0 +1,1 @@
+Mężczyzna widniejący na listach gończych "*Żywy lub Martwy*" w całym kraju. 10 lat temu odegrał kluczową rolę w rewolucji. Później zdradził swoją ojczyznę. Do dzisiaj go nie złapano. 

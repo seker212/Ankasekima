@@ -1,0 +1,1 @@
+Ma ciemnobrązowe włosy, związaną bródkę, około 35 lat, jest umięśniony i niższego wzrostu. Przepadł na bagnach. Celem drużyny jest odnalezienie go oraz przedmiotu, który transportował.

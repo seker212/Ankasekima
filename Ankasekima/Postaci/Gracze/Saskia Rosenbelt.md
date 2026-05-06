@@ -113,6 +113,8 @@ Inne
 ## Stunty
 - Nadnaturalny urok - zasada działania: \[REDACTED\]
 - Ponieważ uwielbiam kolekcjonować różne dziwne rzeczy, dostaję +2 do przeszukiwania, aby znaleźć wartościowe przedmioty, gdy przeszukujemy okolicę.
+- Ponieważ jestem dobrą szermierczynią, to gdy mam do czynienia z wrogo nastawioną postacią humanoidalną, tworzę aspekt, który przy rzucie na wyczucie intencji pozwala mi dostrzec jego słabość, aby dać mi i moim sojusznikom przewagę +2
+
 ## Inne
 - Nieumie pływać
 

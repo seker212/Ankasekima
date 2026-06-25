@@ -35,6 +35,7 @@ aliases:
 >[!info]-
 >Tu jest historia i wydarzenia, które dotknęły waszą postać. Poza potencjalnie rozległym opisem wydarzeń dobrze, żeby na górze wyciągnąć z niego krótkie punkty określające esencję całości, które można szybko przeczytać w trakcie sesji.
 
+- Urodził się z jaja (jak wszystkie mroczne elfy). Jego ciotka nienawidziła go i torturowała za to, że nie był dziewczynką.
 - Brat Quzetloama (Ksetaama) oraz wojownik z klanu Xitlehzotlaqul (Szitezotak) z  [[Axtlohuuquei]] (Asztowukei).  
 - Wojownik antymagiczny z Axtlohuuquei. Podróżuje z [[Ihmexatla (Imeszata)]], która widzi niewidzialne potwory/duchy, na które polują. Podróżuje z dzieckiem w podążaniu za potężnym duchem by odzyskać dusze rodziców i mowę dziecka.
 # Relacje

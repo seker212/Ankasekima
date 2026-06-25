@@ -3,6 +3,8 @@ Axtlohuuquei to kraina położona daleko na zachodzie nazywana też krajem zacho
 Jednak właśnie tam narodził się kult wojowników, którzy zaczęli zakładać osady wysoko w koronach drzew, na jeziorach oraz na obrzeżach dżungli, gdzie światło słoneczne utrzymywało się przez większość dnia. Pierwszym takim osadnikiem był Quohuequitl, Wielki Mistrz Ostrza który postanowił otworzyć swoim odizolowanym pobratymcom drogę na świat. 
 W dzisiejszych czasach królestwo mimo że na pierwszy rzut oka jednolite, tak naprawdę rozdarte jest na kult Głębi i kult Słońca. Kult Głębi wciąż wspierany jest przez zakon kapłanów oraz tradycjonalistów i ma on największe wpływy. Mimo to kult Słońca rośnie w siłę, gdy coraz więcej klanów zaczyna go wspierać. Przewodzące klanom matrony prawdopodobnie widzą w kulcie Słońca możliwość zostania jedyną królową i tym samym zwiększenia swojej władzy poprzez niewypowiedzianą obietnicę zawartą w Drugiej Prawdzie Quohuequitla.
 
+Żyją tu [[Dziobaki]], olbrzymie jaguary, papugi i indyki.
+
 ---
 # Kodeks Wojownika
 ## \#1 Prawda Quohuequitla

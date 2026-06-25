@@ -1,0 +1,1 @@
+Wygląda jak worek z dziobem i ogonem wyglądającym jak dziób. Jest szary i jadowity. Poci się mlekiem.

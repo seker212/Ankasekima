@@ -10,45 +10,39 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout your repository (containing your markdown notes)
       - name: Checkout Notes
         uses: actions/checkout@v4
         with:
           path: my-notes
+          fetch-depth: 0
 
-      # 2. Checkout the actual Quartz engine from its official repository
       - name: Checkout Quartz Engine
         uses: actions/checkout@v4
         with:
           repository: jackyzha0/quartz
           path: quartz
+          ref: v5
 
-      # 3. Setup Node.js (cache removed to avoid lockfile pathing errors)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      # 4. Install Quartz, inject your notes, and build
       - name: Build Quartz Site
         run: |
           cd quartz
           npm ci
           
-          # Clear the default template notes that come with Quartz
+          # Clear the default template notes
           rm -rf content/*
           
-          # Copy your notes from your repository into the Quartz content folder
-          cp -r ../my-notes/Ankasekima/* content/
-          
-          # (Optional) If you have custom config files in your repo, copy them over
-          cp ../my-notes/quartz.config.ts . 2>/dev/null || true
-          cp ../my-notes/quartz.layout.ts . 2>/dev/null || true
+          # Cleanly copy ALL your notes into the content directory.
+          # rsync ensures everything transfers perfectly while ignoring git data that could confuse the builder.
+          rsync -a --exclude='.git' ../my-notes/ content/
           
           # Build the final static site
           npx quartz build --directory content --output ../_site
 
-      # 5. Setup Pages and Upload the artifact
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

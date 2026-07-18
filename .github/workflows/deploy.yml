@@ -21,7 +21,7 @@ jobs:
         with:
           repository: jackyzha0/quartz
           path: quartz
-          ref: v5
+          ref: v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -37,7 +37,6 @@ jobs:
           rm -rf content/*
           
           # Cleanly copy ALL your notes into the content directory.
-          # rsync ensures everything transfers perfectly while ignoring git data that could confuse the builder.
           rsync -a --exclude='.git' ../my-notes/ content/
           
           # Build the final static site

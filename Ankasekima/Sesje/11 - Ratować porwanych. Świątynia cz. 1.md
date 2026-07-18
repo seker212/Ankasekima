@@ -1,0 +1,1 @@
+Wejście do świątyni i eksploracja. Dotarcie do miejsca uwięzienia uprowadzonych i wybicia z niego kultystów.

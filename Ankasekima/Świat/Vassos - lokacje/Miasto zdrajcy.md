@@ -1,0 +1,1 @@
+Miasto z [[5 - Miasto zdrajcy]]. Nazwa miasta nigdy nie została graczą ujawniona.

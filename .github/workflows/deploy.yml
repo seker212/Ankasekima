@@ -36,8 +36,8 @@ jobs:
           # Clear the default template notes
           rm -rf content/*
           
-          # Cleanly copy ALL your notes into the content directory.
-          rsync -a --exclude='.git' ../my-notes/ content/
+          # Change: Point to the 'Ankasekima' subfolder, not the parent
+          rsync -a --exclude='.git' ../my-notes/Ankasekima/ content/
           
           # Build the final static site
           npx quartz build --directory content --output ../_site

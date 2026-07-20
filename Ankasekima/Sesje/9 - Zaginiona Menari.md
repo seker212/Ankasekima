@@ -3,6 +3,6 @@
 - Drużyna odnajduje Menari w lesie nieopodal miasta.
 - Menari ma kryzys wiary, który rozgrywa się na zasadzie "Nie zesraj się." i "Twój stary!" 😆
 - Drużyna wraca do miasta. Jest zmuszona ponownie opłacić podatek za wejście.
-- Przesłuchują [[Malkolm]]
+- Przesłuchują [[Malkolm]], który mówi, że widział podejrzaną osobę, która nie cumowała w porcie i miała jaszczurkę na ramieniu.
 - Wracają do portu. Okazuje się, że za ich transport będą odpowiadać ci sami marynarze, którym wcześniej postawili trunki, przesłuchując ich odnośnie zaginionego handlarza.
 - Wyruszają w drogę. Po czasie spokojnej podróży wpływają w gęstą jak mleko mgłę.

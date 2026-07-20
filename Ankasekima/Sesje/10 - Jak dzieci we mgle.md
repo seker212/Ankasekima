@@ -1,1 +1,28 @@
-Dochodzenie na bagnach i znalezienie świątyni.
+- Drużyna bierze szalupy i dociera na bagna
+- Mgła jest gęsta, ale tworzą lampę, która pozwala im się po nich sprawnie poruszać bez potykania się, czy wchodzenia w pułapki. Niemniej ciężkie warunki powodują debuff -2 do percepcji graczy.
+- Drużyna zauważa, że w jednym kierunku mgła robi się trochę gęstsza niż w pozostałych i zaczyna podążać za tym tropem
+- Po drodze od czasu do czasu słyszą rechot w stylu żaby, ale znacznie głośniejszy i znacznie niższy i dłuższy.
+- Docierają do jamy z której dobywają się owe dźwięki. Przed jamą Quzehxt zauważa wielki odcisk na ziemi, który sugeruje znaczącą wielkość stworzenia wewnątrz jamy.
+- Drużyna obawiając się wnętrza jamy postanawia spróbować wywabić stworzenie na zewnątrz. 
+- Aerin próbuje stworzyć kuszący zapach przypominający pożywienie dla stworzenia, ale uzyskuje efekt odwrotny. Przypadkiem stwarza nieprzyjemny, drażniący zapach, który powoduje wyjście stworzenia z jamy.
+- Drużynie ukazuje się wielka ropucha, której do podbródka brakuje najwyższej z postaci jeszcze około pół metra. Jej plecy pokryte są kraterami, z których wydobywa się mgła.
+- Menari tworzy iluzję wielkiego *świerszcza(?)*, który ma udawać posiłek dla potwora. W efekcie drużyna widzi przerażający atak, kiedy ropucha z nadzwyczajną szybkością wystrzeliwuje swój język w iluzję po czym od razu go chowa z powrotem.
+- Drużyna zauważa, że na skraju ust ropuchy coś jest, ale nie wiedzą co.
+- Menari decyduje się zajrzeć do wnętrza jamy i wpada na spory, szczelnie zamknięty, skórzany worek, podpisany *Trzymać w wodzie pod łajbą dla ochłodzenia. Nie pozwolić by wyciekło.*
+- Aerin pochłonięta ciekawością otwiera worek i znajduje wewnątrz substancję, którą natychmiast zaczyna rozpracowywać.
+- Orientuje się, że jest to substancja wspierająca generowanie przez stworzenie gęstej mgły, którą ktoś ją karmi. 
+- Drużyna testuje reakcję substancji na kontakt z wodą, w której ta natychmiast zaczyna się rozpuszczać i szybko rozprzestrzeniać.
+- Postanawiają worek zakopać, żeby potwór go nie zjadł.
+- Przed odejściem Talar i Saskia postanawiają pogłaskać stworzenie, szczególnie, że było wobec nich przez cały czas nieagresywne. Ropucha spluwa na nich tym, co wystawało z jej ust. Był to fragment szaty kultysty, który prawdopodobnie miał nakarmić ropuchę znalezionym workiem, ale niestety sam stał się jej niedawnym posiłkiem.
+- W kieszeni szaty znajdują miedziany krąg z uchwytami. Niestety niezależnie od tego co próbują z nim zrobić talerz wydaje się bezużyteczny.
+- Ihmexatla zauważa ślady ciągnięcia worka za jamą. Drużyna podążając za nimi dociera do schowanej w zaroślach łódki.
+- W kabinie znajdują dziennik porwań, w tym wpis na temat człowieka niosącego mumię, który pojawił się "tak jak przepowiedziano".
+- Do tego odkrywają notatkę ze schematem kręgu z uszkami, który jak się szybko domyślają jest przedmiotem, który wcześniej znaleźli w szacie kultysty.
+- Po wielu próbach i błędach Quzehxt sugeruje, żeby spróbować przeczytać niezrozumiały podpis ze schematu, traktując go jako inkantację. W końcu udaje się odnieść sukces i talerz zaczyna nabierać wypukłych elementów, w tym wskazówkę, która niczym kompas po chwili stabilizuje się na jedym kierunku.
+- Podążając za wskazówką drużyna dociera do niewielkiej, starej, porośniętej kopuły stojącej na 4 filarach. Pod nią ewidentnie znajduje się miejsce, na którym można coś zawiesić. A sama konstrukcja zawiera długie schody w dół krążące wzdłuż jej ścian.
+- Przed zejściem na dół, dla pewności drużyna przeszukuje okolice. Quzehxt zauważa 3 kultystów, którzy się na nich czają.
+- Drużyna rozdziela się. Quzehxt oddala się we mgle, żeby nie stać pod lampą trzymaną przez Menari, która zapewne wskazuje przeciwnikom ich położenie. Talar ucieka na drzewo. Pozostała 3, czyli Menari, Saskia i Aerin pozostają w zwarciu, w momencie gdy Menari wydaje z siebie głośny odgłos, na który owych 3 kultystów zrywa się do ataku.
+- Podczas walki Quzehxt zachodzi kultystów od tyłu, lecz zauważa kolejnych 3 kultystów, którzy mając podobny pomysł zachodzą od tyłu grupę z lampą. Pozostali są nieświadomi ich obecności.
+- Talar chcąc spłoszyć przeciwników sprawnie odgrywa rolę osoby wskazującej drogę posiłkom, przez co kultyści zaczynają uciekać w stronę kopuły. Trójce, którą Quzehxt widział jako jedyny udaje się to bez większego trudu. 
+- Z pozostałych kultystów jeden otrzymuje od Aerin strzał z kamienia prosto w oczodół, która decyduje się nie stabilizować jego stanu i lekką ręką pozwala mu umrzeć.
+- Pozostała dwójka próbując uciekać otrzymuje cios od Quzehxta. Jeden umiera, a Quzehxt ciska jego ciałem w drugiego, kładąc go na ziemię i uniemożliwiając dalszą ucieczkę ciężko rannemu.

@@ -1,0 +1,6 @@
+- Monstrum żyjące w jamie na [[Bagna|Bagnach]]
+- Ciało ropuchy
+- Pomimo swojej okrągłej formy widać mocno zbudowane kończyny
+- Jego podbródek zaczyna się pół metra ponad głowami.
+- Na plecach ma wiele kraterów z których wydobywa się mgła.
+- Wykazuje się odpornością na ogień (przyjmuje tylko połowę obrażeń od ognia)

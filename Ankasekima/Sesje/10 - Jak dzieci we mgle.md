@@ -1,11 +1,11 @@
-- Drużyna bierze szalupy i dociera na bagna
+- Drużyna bierze szalupy i dociera na [[Bagna]]
 - Mgła jest gęsta, ale tworzą lampę, która pozwala im się po nich sprawnie poruszać bez potykania się, czy wchodzenia w pułapki. Niemniej ciężkie warunki powodują debuff -2 do percepcji graczy.
 - Drużyna zauważa, że w jednym kierunku mgła robi się trochę gęstsza niż w pozostałych i zaczyna podążać za tym tropem
 - Po drodze od czasu do czasu słyszą rechot w stylu żaby, ale znacznie głośniejszy i znacznie niższy i dłuższy.
 - Docierają do jamy z której dobywają się owe dźwięki. Przed jamą Quzehxt zauważa wielki odcisk na ziemi, który sugeruje znaczącą wielkość stworzenia wewnątrz jamy.
 - Drużyna obawiając się wnętrza jamy postanawia spróbować wywabić stworzenie na zewnątrz. 
 - Aerin próbuje stworzyć kuszący zapach przypominający pożywienie dla stworzenia, ale uzyskuje efekt odwrotny. Przypadkiem stwarza nieprzyjemny, drażniący zapach, który powoduje wyjście stworzenia z jamy.
-- Drużynie ukazuje się wielka ropucha, której do podbródka brakuje najwyższej z postaci jeszcze około pół metra. Jej plecy pokryte są kraterami, z których wydobywa się mgła.
+- Drużynie ukazuje się wielka [[Żaba Eee Ropucha]], której do podbródka brakuje najwyższej z postaci jeszcze około pół metra. Jej plecy pokryte są kraterami, z których wydobywa się mgła.
 - Menari tworzy iluzję wielkiego *świerszcza(?)*, który ma udawać posiłek dla potwora. W efekcie drużyna widzi przerażający atak, kiedy ropucha z nadzwyczajną szybkością wystrzeliwuje swój język w iluzję po czym od razu go chowa z powrotem.
 - Drużyna zauważa, że na skraju ust ropuchy coś jest, ale nie wiedzą co.
 - Menari decyduje się zajrzeć do wnętrza jamy i wpada na spory, szczelnie zamknięty, skórzany worek, podpisany *Trzymać w wodzie pod łajbą dla ochłodzenia. Nie pozwolić by wyciekło.*

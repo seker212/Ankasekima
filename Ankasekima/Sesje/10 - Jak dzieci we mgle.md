@@ -16,7 +16,8 @@
 - Przed odejściem Talar i Saskia postanawiają pogłaskać stworzenie, szczególnie, że było wobec nich przez cały czas nieagresywne. Ropucha spluwa na nich tym, co wystawało z jej ust. Był to fragment szaty kultysty, który prawdopodobnie miał nakarmić ropuchę znalezionym workiem, ale niestety sam stał się jej niedawnym posiłkiem.
 - W kieszeni szaty znajdują miedziany krąg z uchwytami. Niestety niezależnie od tego co próbują z nim zrobić talerz wydaje się bezużyteczny.
 - Ihmexatla zauważa ślady ciągnięcia worka za jamą. Drużyna podążając za nimi dociera do schowanej w zaroślach łódki.
-- W kabinie znajdują dziennik porwań, w tym wpis na temat człowieka niosącego mumię, który pojawił się "tak jak przepowiedziano".
+- W kabinie znajdują dziennik porwań, w tym wpis na temat człowieka niosącego mumię, który pojawił się "tak jak przepowiedziano". Znajdują w nim również mapę szlaków z zaznaczoną wioską tubylców, do której najwyraźniej się nie zbliżali.
+- Tubylcy zdają się wskazywać drogę przez bagna niektórym podróżnym z czego kultyści korzystają, porywając niczego nieświadomych podróżnych, którzy starają się iść wskazaną przez tubylców trasą.
 - Do tego odkrywają notatkę ze schematem kręgu z uszkami, który jak się szybko domyślają jest przedmiotem, który wcześniej znaleźli w szacie kultysty.
 - Po wielu próbach i błędach Quzehxt sugeruje, żeby spróbować przeczytać niezrozumiały podpis ze schematu, traktując go jako inkantację. W końcu udaje się odnieść sukces i talerz zaczyna nabierać wypukłych elementów, w tym wskazówkę, która niczym kompas po chwili stabilizuje się na jedym kierunku.
 - Podążając za wskazówką drużyna dociera do niewielkiej, starej, porośniętej kopuły stojącej na 4 filarach. Pod nią ewidentnie znajduje się miejsce, na którym można coś zawiesić. A sama konstrukcja zawiera długie schody w dół krążące wzdłuż jej ścian.

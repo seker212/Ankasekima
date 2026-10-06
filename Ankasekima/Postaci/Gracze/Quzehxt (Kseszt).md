@@ -96,16 +96,16 @@ Quzehxt z klanu Xitlehzotlaqul
 - Percepcja +2
 - Przetrwanie +1
 - Przeszukiwanie +4
-- Siła
+- Siła +1
 - Siła Woli +3
 - Skradanie
 - Celność
 - Wyczucie Intencji +1
-- Wytrzymałość +1
+- Wytrzymałość +2
 - Akrobatyka +3
 - Zręczność
 - Medycyna
-- Refleks +2
+- Refleks +3
 - Zajmowanie się Zwierzętami +1
 ## Stunty
 - Ponieważ jestem doświadczonym łowcą potworów polegającym na zrozumieniu, otrzymuję +2 do Akrobatyki podczas ataku, jeżeli wykorzystuję aspekt który wcześniej wprowadziłem tworząc przewagę.

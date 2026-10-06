@@ -39,7 +39,7 @@ Ihmexatla z klanu Xitlehzotlaqul
 - Zręczność 
 - Medycyna
 - Refleks
-- Zajmowanie się Zwierzętami +2
+- Zajmowanie się Zwierzętami +3
 ## Stunty
 - Ponieważ jestem mała i bezbronna przeciwnicy mnie nie atakują jeżeli w pobliżu jest jakiś dorosły.
 - Ponieważ zawsze lubiłam ptaki i zbieram o nich wiedzę otrzymuję +2 do Zajmowania się Zwierzętami podczas Przezwyciężania, gdy mam do czynienia z latającymi istotami.

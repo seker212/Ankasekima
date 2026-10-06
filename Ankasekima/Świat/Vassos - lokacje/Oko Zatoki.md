@@ -1,0 +1,3 @@
+- Miasto portowe i główne miasto handlu w Vassos. 
+- Miejsce akcji [[7 - Zakupy przed bagnami]] i [[8 - Czy ktoś słyszał czy ktoś wie]]
+- Podlega tej samej prowincji co [[Miasto zdrajcy]]

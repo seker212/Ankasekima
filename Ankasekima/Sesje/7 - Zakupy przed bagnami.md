@@ -1,0 +1,9 @@
+- Drużyna dociera do miasta portowego. Na wjeździe zostają spisani i Barnum płaci 2 korony podatku za wjazd do miasta. Talar jako jedyna podaje fałszywe imię.
+- Na miejscu dostają dzień na przygotowanie się w czasie jak Barnum załatwia statek na wyprawę na bagna.
+- Szukając sklepów orientują się, że mają 2 opcje - handlarze, którzy po lekko zawyżonych cenach (ok. +20%) sprzedają swój towar oraz popularny sklep ze wszystkim, sprzedający po taniości (ok. -20%).
+- Dowiadują się, że jest to wymysł "właściciela" prowincji: wyciąga od handlarzy towar po taniości, zarówno od tych co są gotowi go zbyć jak i od tych których trzeba przekonać *innymi metodami*, nakłada podatki (tak jak podatek za wjazd do miasta), jednocześnie dając ludowi tańszy sklep do dyspozycji, który jest popularny wśród mieszkańców.
+- Drużyna decyduje się zakupić sprzęt i zapasy w owym sklepie dyskontowym
+- Wychodząc ze sklepu ktoś w dużym kapeluszu wrzuca  Talarowi do kieszeni notatkę. Notatka ostrzega przed podróżą na bagna, a podpisana jest *Przyjaciel*
+- Drużyna rusza w pościg przez tłum za osobnikiem w kapeluszu. Quzehxt wykorzystuje dekoracje z niedawnego festiwalu, żeby się wspiąć na nie i go dogonić. Osoba widzi go i zaczyna uciekać.
+- Quzehxt dogania go w pierwszej alejce, rzucając się na niego i dociskając go do ziemi własnym ciężarem.
+- Reszta drużyny dogania Quzehxt, a spod kapelusza wyłania się znajoma Talar twarz [[Bronis]].

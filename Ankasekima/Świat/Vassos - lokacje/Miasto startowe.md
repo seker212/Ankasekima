@@ -1,0 +1,1 @@
+Miasto z [[1 - Na co komu pieniądze]] i [[2 - Jak wynieść całą karczmę]]. Nazwa miasta nieznana.

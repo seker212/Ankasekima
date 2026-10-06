@@ -1,6 +1,6 @@
 ## Miasto i historia
 
-Po zapaleniu kadzideł docieramy do miasta, które sprawia wrażenie niemal całkowicie opuszczonego. Na miejscu otrzymujemy naszą zapłatę od straznika.
+Po zapaleniu kadzideł docieramy do miasta, które sprawia wrażenie niemal całkowicie opuszczonego. Na miejscu otrzymujemy naszą zapłatę od strażnika.
 
 Z historii regionu dowiadujemy się, że dziesięć lat temu wybuchła rewolucja pod wodzą pięciu przywódców. Zryw zakończył się sukcesem, a król stracił głowę. Choć kraj podzielono na pięć prowincji i obiecywano wprowadzenie demokracji, ostatecznie rządy objęła oligarchia.
 Strażnik opowiedział nam nieco o historii miasta.
@@ -9,11 +9,10 @@ Obecna sytuacja jest pokłosiem zdrady: jeden z liderów, który urodził się i
 
 ## Wydarzenia w karczmie
 
-Zatrzymujemy się na nocleg w karczmie, która – jak się okazuje – roi się od pluskiew. Po przespanej nocy jesteśmy świadkami, jak dwóch strażników wymusza od karczmarza haracz; Airin przekazuje wtedy gospodarzowi koronę, próbując naklonić,
- go do ucieczki z miasta. Talar i Menari ruszają tropem strażników, a następnie przekonują resztę grupy, że powinniśmy ich dotkliwie nastraszyć.
+Zatrzymujemy się na nocleg w karczmie, która – jak się okazuje – roi się od pluskiew. Po przespanej nocy jesteśmy świadkami, jak dwóch strażników wymusza od karczmarza haracz; Airin przekazuje wtedy gospodarzowi koronę, próbując nakłonić, go do ucieczki z miasta. Talar i Menari ruszają tropem strażników, a następnie przekonują resztę grupy, że powinniśmy ich dotkliwie nastraszyć.
 
-## Plan działania:
+## Plan działania
 Opracowujemy szczegółowy fortel. Airin przygotowuje specjalny pyłek wywołujący mgłę i halucynacje. Talar maluje krwią znaki na drzwiach i podrzuca głowę jelenia, by wywołać grozę. Saskia i Talar wcielają się w rolę chóru duchów, natomiast Menari przywołuje iluzje wychudzonych zjaw. W tym czasie Qzeszt zajmuje pozycję na dachu – jest gotowy do walki i ma za zadanie szeptać złowieszcze słowo „śmierć”.
 
-## Finał:
+## Finał
 Nasza mistyfikacja kończy się pełnym sukcesem.

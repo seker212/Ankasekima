@@ -1,0 +1,5 @@
+- Idąc za miasto drużyna znajduje domek. Oddalony lekko od drogi w którym zatrzymał się [[Barnum]]. 
+- Drużyna poznaje [[Murkow]]a - Czarodzieja i jednego z klientów Barnuma
+- Murkow wygaduje się, że Barnum przywozi i zostawia żywność mieszkańcom [[Miasto zdrajcy]] za każdym razem jak przez nie przejeżdża, nieoficjalnymi kanałami tak, żeby mieszkańcy nie mieli z tego tytułu problemów.
+- Talar częstuje się od Murkowa fajką z ziołami, po których "mózg zapierdala" i zaczyna gadać sama ze sobą o różnych religiach 
+- Drużyna nie jest specjalnie zainteresowana ani wiedzą teoretyczną na temat magii, ani jego projektem badawczym na temat nadawania telepatycznych przekazów.

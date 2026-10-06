@@ -1,0 +1,5 @@
+- Rozmowa z [[Bronis]]
+- Drużyna negocjuje z Barnumem podwyższenie stawki do 220 koron plus dodatkowy dzień na śledztwo w mieście w sprawie zaginięć.
+- Przesłuchanie zatroskanej żony, Helgi i Helmuta oraz marynarzy ze statku zaginionego handlarza.
+- Bójka w karczmie - Menari vs Jacek Soplica
+- Drużyna idzie spać. Rano budzą się bez Menari

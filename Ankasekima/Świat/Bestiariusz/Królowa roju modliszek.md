@@ -1,0 +1,1 @@
+Wielka modliszka przewodząca rojowi mniejszych owadów. Drużyna spotkała ją podczas odnawiania kadzideł przy leśnej drodze. W walce bestia próbowała zagasić płomień i została pokonana dzięki współpracy drużyny oraz iluzji złotego drzewa.

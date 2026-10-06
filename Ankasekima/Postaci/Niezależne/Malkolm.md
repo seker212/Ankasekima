@@ -1,0 +1,1 @@
+Chłopak jednej z ofiar porwań. Boi się jaszczurek.

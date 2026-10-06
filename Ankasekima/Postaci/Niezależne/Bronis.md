@@ -1,0 +1,1 @@
+Wcześniej wspólnik Talar. Informator w porcie na temat zaginięć i bagien.
